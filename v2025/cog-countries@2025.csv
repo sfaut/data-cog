@@ -1,0 +1,230 @@
+code,iso2_code,iso3_code,num3_code,name,official_name,actual_id,actual_name,parent_code,first_appearance_year
+99100,FR,FRA,250,France,République française,1,Actuel,"",0
+99101,DK,DNK,208,Danemark,Royaume du Danemark,1,Actuel,"",0
+99102,IS,ISL,352,Islande,Islande,1,Actuel,"",0
+99103,NO,NOR,578,Norvège,Royaume de Norvège,1,Actuel,"",0
+99104,SE,SWE,752,Suède,Royaume de Suède,1,Actuel,"",0
+99105,FI,FIN,246,Finlande,République de Finlande,1,Actuel,"",0
+99106,EE,EST,233,Estonie,République d’Estonie,1,Actuel,"",1991
+99107,LV,LVA,428,Lettonie,République de Lettonie,1,Actuel,"",1991
+99108,LT,LTU,440,Lituanie,République de Lituanie,1,Actuel,"",1990
+99109,DE,DEU,276,Allemagne,République fédérale d’Allemagne,1,Actuel,"",1990
+99110,AT,AUT,040,Autriche,République d’Autriche,1,Actuel,"",0
+99111,BG,BGR,100,Bulgarie,République de Bulgarie,1,Actuel,"",0
+99112,HU,HUN,348,Hongrie,Hongrie,1,Actuel,"",0
+99113,LI,LIE,438,Liechtenstein,Principauté du Liechtenstein,1,Actuel,"",0
+99114,RO,ROU,642,Roumanie,Roumanie,1,Actuel,"",0
+99116,CZ,CZE,203,Tchéquie,République tchèque,1,Actuel,"",1993
+99117,SK,SVK,703,Slovaquie,République slovaque,1,Actuel,"",1993
+99118,BA,BIH,070,Bosnie-Herzégovine,Bosnie-Herzégovine,1,Actuel,"",1992
+99119,HR,HRV,191,Croatie,République de Croatie,1,Actuel,"",1991
+99120,ME,MNE,499,Monténégro,Monténégro,1,Actuel,"",2006
+99121,RS,SRB,688,Serbie,République de Serbie,1,Actuel,"",0
+99122,PL,POL,616,Pologne,République de Pologne,1,Actuel,"",0
+99123,RU,RUS,643,Russie,Fédération de Russie,1,Actuel,"",0
+99125,AL,ALB,008,Albanie,République d’Albanie,1,Actuel,"",0
+99126,GR,GRC,300,Grèce,République hellénique,1,Actuel,"",0
+99127,IT,ITA,380,Italie,République italienne,1,Actuel,"",0
+99128,SM,SMR,674,Saint-Marin,République de Saint-Marin,1,Actuel,"",0
+99129,VA,VAT,336,Vatican,Saint-Siège ou Vatican,1,Actuel,"",0
+99130,AD,AND,020,Andorre,Principauté d’Andorre,1,Actuel,"",0
+99131,BE,BEL,056,Belgique,Royaume de Belgique,1,Actuel,"",0
+99132,GB,GBR,826,Royaume-Uni,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,1,Actuel,"",0
+99133,GI,GIB,292,Territoires britanniques en Méditerranée,"Gibraltar, Akrotiri et Dhekelia",4,Territoire ayant son propre code officiel géographique,99132,0
+99134,ES,ESP,724,Espagne,Royaume d’Espagne,1,Actuel,"",0
+99135,NL,NLD,528,Pays-Bas,Royaume des Pays-Bas,1,Actuel,"",0
+99136,IE,IRL,372,Irlande,Irlande,1,Actuel,"",0
+99137,LU,LUX,442,Luxembourg,Grand-Duché du Luxembourg,1,Actuel,"",0
+99138,MC,MCO,492,Monaco,Principauté de Monaco,1,Actuel,"",0
+99139,PT,PRT,620,Portugal,République portugaise,1,Actuel,"",0
+99140,CH,CHE,756,Suisse,Confédération suisse,1,Actuel,"",0
+99144,MT,MLT,470,Malte,République de Malte,1,Actuel,"",1964
+99145,SI,SVN,705,Slovénie,République de Slovénie,1,Actuel,"",1991
+99148,BY,BLR,112,Biélorussie,République de Biélorussie,1,Actuel,"",1991
+99151,MD,MDA,498,Moldavie,République de Moldavie,1,Actuel,"",1991
+99155,UA,UKR,804,Ukraine,Ukraine,1,Actuel,"",1991
+99156,MK,MKD,807,Macédoine du Nord,République de Macédoine du Nord,1,Actuel,"",1991
+99157,"","","",Kosovo,République du Kosovo,1,Actuel,"",2007
+99158,FO,FRO,234,Féroé,Îles Féroé,4,Territoire ayant son propre code officiel géographique,99101,0
+99159,"","","",Territoires norvégiens en Atlantique Nord,"Île Jan-Mayen, Svalbard",4,Territoire ayant son propre code officiel géographique,99103,0
+99160,AX,ALA,248,Åland,Îles Åland,4,Territoire ayant son propre code officiel géographique,99105,0
+99161,"","","",Dépendances de la Couronne britannique,"Île de Man, Jersey, Guernesey",4,Territoire ayant son propre code officiel géographique,99132,0
+99162,"","","",Île des Faisans,Île des Faisans,4,Territoire ayant son propre code officiel géographique,99134,0
+99201,SA,SAU,682,Arabie saoudite,Royaume d’Arabie saoudite,1,Actuel,"",0
+99203,IQ,IRQ,368,Irak,République d’Irak,1,Actuel,"",0
+99204,IR,IRN,364,Iran,République islamique d’Iran,1,Actuel,"",0
+99205,LB,LBN,422,Liban,République libanaise,1,Actuel,"",0
+99206,SY,SYR,760,Syrie,République arabe syrienne,1,Actuel,"",1961
+99207,IL,ISR,376,Israël,État d’Israël,1,Actuel,"",0
+99208,TR,TUR,792,Turquie,République de Turquie,1,Actuel,"",0
+99212,AF,AFG,004,Afghanistan,République islamique d’Afghanistan,1,Actuel,"",0
+99213,PK,PAK,586,Pakistan,République islamique du Pakistan,1,Actuel,"",0
+99214,BT,BTN,064,Bhoutan,Royaume du Bhoutan,1,Actuel,"",1949
+99215,NP,NPL,524,Népal,Népal,1,Actuel,"",0
+99216,CN,CHN,156,Chine,République populaire de Chine,1,Actuel,"",0
+99217,JP,JPN,392,Japon,Japon,1,Actuel,"",0
+99219,TH,THA,764,Thaïlande,Royaume de Thaïlande,1,Actuel,"",0
+99220,PH,PHL,608,Philippines,République des Philippines,1,Actuel,"",0
+99222,JO,JOR,400,Jordanie,Royaume hachémite de Jordanie,1,Actuel,"",0
+99223,IN,IND,356,Inde,République de l’Inde,1,Actuel,"",0
+99224,MM,MMR,104,Birmanie,République de l’Union de Birmanie,1,Actuel,"",0
+99225,BN,BRN,096,Brunei,Brunei Darussalam,1,Actuel,"",0
+99226,SG,SGP,702,Singapour,République de Singapour,1,Actuel,"",1965
+99227,MY,MYS,458,Malaisie,Malaisie,1,Actuel,"",0
+99229,MV,MDV,462,Maldives,République des Maldives,1,Actuel,"",0
+99230,HK,HKG,344,Hong Kong,Hong Kong,4,Territoire ayant son propre code officiel géographique,99216,0
+99231,ID,IDN,360,Indonésie,République d’Indonésie,1,Actuel,"",0
+99232,MO,MAC,446,Macao,Macao,4,Territoire ayant son propre code officiel géographique,99216,0
+99234,KH,KHM,116,Cambodge,Royaume du Cambodge,1,Actuel,"",1953
+99235,LK,LKA,144,Sri Lanka,République démocratique socialiste du Sri Lanka,1,Actuel,"",1947
+99236,TW,TWN,158,Taïwan,Taïwan,1,Actuel,"",1949
+99238,KP,PRK,408,Corée du Nord,République populaire démocratique de Corée,1,Actuel,"",1953
+99239,KR,KOR,410,Corée du Sud,République de Corée,1,Actuel,"",1953
+99240,KW,KWT,414,Koweït,État du Koweït,1,Actuel,"",1961
+99241,LA,LAO,418,Laos,République démocratique populaire lao,1,Actuel,"",1953
+99242,MN,MNG,496,Mongolie,Mongolie,1,Actuel,"",1945
+99243,VN,VNM,704,Vietnam,République socialiste du Vietnam,1,Actuel,"",1976
+99246,BD,BGD,050,Bangladesh,République populaire du Bangladesh,1,Actuel,"",1971
+99247,AE,ARE,784,Émirats arabes unis,Émirats arabes unis,1,Actuel,"",1971
+99248,QA,QAT,634,Qatar,État du Qatar,1,Actuel,"",1971
+99249,BH,BHR,048,Bahreïn,Royaume de Bahreïn,1,Actuel,"",1971
+99250,OM,OMN,512,Oman,Sultanat d’Oman,1,Actuel,"",1970
+99251,YE,YEM,887,Yémen,République du Yémen,1,Actuel,"",1990
+99252,AM,ARM,051,Arménie,République d’Arménie,1,Actuel,"",1991
+99253,AZ,AZE,031,Azerbaïdjan,République d’Azerbaïdjan,1,Actuel,"",1991
+99254,CY,CYP,196,Chypre,République de Chypre,1,Actuel,"",1994
+99255,GE,GEO,268,Géorgie,Géorgie,1,Actuel,"",1991
+99256,KZ,KAZ,398,Kazakhstan,République du Kazakhstan,1,Actuel,"",1991
+99257,KG,KGZ,417,Kirghizstan,République kirghize,1,Actuel,"",1991
+99258,UZ,UZB,860,Ouzbékistan,République d’Ouzbékistan,1,Actuel,"",1991
+99259,TJ,TJK,762,Tadjikistan,République du Tadjikistan,1,Actuel,"",1991
+99260,TM,TKM,795,Turkménistan,Turkménistan,1,Actuel,"",1991
+99261,PS,PSE,275,Palestine,État de Palestine,1,Actuel,"",1948
+99262,TL,TLS,626,Timor oriental,République démocratique du Timor oriental,1,Actuel,"",2002
+99265,"","","",Territoires australiens de l’océan Indien,"Îles Ashmore-et-Cartier, territoire antarctique australien, îles Heard-et-MacDonald, îles Cocos, île Christmas",4,Territoire ayant son propre code officiel géographique,99501,0
+99301,EG,EGY,818,Égypte,République arabe d’Égypte,1,Actuel,"",0
+99302,LR,LBR,430,Libéria,République du Libéria,1,Actuel,"",0
+99303,ZA,ZAF,710,Afrique du Sud,République d’Afrique du Sud,1,Actuel,"",0
+99304,GM,GMB,270,Gambie,République de Gambie,1,Actuel,"",0
+99306,SH,SHN,654,Territoires britanniques de l’océan Atlantique,"Îles Sainte-Hélène, Ascension, Tristan-da-Cunha",4,Territoire ayant son propre code officiel géographique,99132,0
+99308,IO,IOT,086,Territoire britannique de l’océan Indien,Îles Chagos,4,Territoire ayant son propre code officiel géographique,99132,0
+99309,TZ,TZA,834,Tanzanie,République unie de Tanzanie,1,Actuel,"",0
+99310,ZW,ZWE,716,Zimbabwe,République du Zimbabwe,1,Actuel,"",0
+99311,NA,NAM,516,Namibie,République de Namibie,1,Actuel,"",0
+99312,CD,COD,180,République démocratique du Congo,République démocratique du Congo,1,Actuel,"",0
+99313,ES,ESP,724,Territoires espagnols en Afrique du Nord,"Ceuta, Melilla, Présides, îles Canaries",4,Territoire ayant son propre code officiel géographique,99134,0
+99314,GQ,GNQ,226,Guinée équatoriale,République de Guinée équatoriale,1,Actuel,"",0
+99315,ET,ETH,231,Éthiopie,République démocratique fédérale d’Éthiopie,1,Actuel,"",0
+99316,LY,LBY,434,Libye,État de Libye,1,Actuel,"",0
+99317,ER,ERI,232,Érythrée,État d’Érythrée,1,Actuel,"",1993
+99318,SO,SOM,706,Somalie,République fédérale de Somalie,1,Actuel,"",0
+99319,PT,PRT,620,Territoires portugais de l’océan Atlantique,"Açores, Madère",4,Territoire ayant son propre code officiel géographique,99139,0
+99321,BI,BDI,108,Burundi,République du Burundi,1,Actuel,"",1960
+99322,CM,CMR,120,Cameroun,République du Cameroun,1,Actuel,"",1961
+99323,CF,CAF,140,Centrafrique,République centrafricaine,1,Actuel,"",1960
+99324,CG,COG,178,Congo,République du Congo,1,Actuel,"",1960
+99326,CI,CIV,384,Côte d’Ivoire,République de Côte d’Ivoire,1,Actuel,"",1960
+99327,BJ,BEN,204,Bénin,République du Bénin,1,Actuel,"",1960
+99328,GA,GAB,266,Gabon,République gabonaise,1,Actuel,"",1960
+99329,GH,GHA,288,Ghana,République du Ghana,1,Actuel,"",1957
+99330,GN,GIN,324,Guinée,République de Guinée,1,Actuel,"",1958
+99331,BF,BFA,854,Burkina,Burkina Faso,1,Actuel,"",1960
+99332,KE,KEN,404,Kenya,République du Kenya,1,Actuel,"",1963
+99333,MG,MDG,450,Madagascar,République de Madagascar,1,Actuel,"",1960
+99334,MW,MWI,454,Malawi,République du Malawi,1,Actuel,"",1964
+99335,ML,MLI,466,Mali,République du Mali,1,Actuel,"",1960
+99336,MR,MRT,478,Mauritanie,République islamique de Mauritanie,1,Actuel,"",1960
+99337,NE,NER,562,Niger,République du Niger,1,Actuel,"",1960
+99338,NG,NGA,566,Nigéria,République fédérale du Nigéria,1,Actuel,"",1960
+99339,UG,UGA,800,Ouganda,République d’Ouganda,1,Actuel,"",1962
+99340,RW,RWA,646,Rwanda,République du Rwanda,1,Actuel,"",1962
+99341,SN,SEN,686,Sénégal,République du Sénégal,1,Actuel,"",1960
+99342,SL,SLE,694,Sierra Leone,République de Sierra Leone,1,Actuel,"",1961
+99343,SD,SDN,729,Soudan,République du Soudan,1,Actuel,"",1956
+99344,TD,TCD,148,Tchad,République du Tchad,1,Actuel,"",1960
+99345,TG,TGO,768,Togo,République togolaise,1,Actuel,"",1960
+99346,ZM,ZMB,894,Zambie,République de Zambie,1,Actuel,"",1964
+99347,BW,BWA,072,Botswana,République du Botswana,1,Actuel,"",1966
+99348,LS,LSO,426,Lesotho,Royaume du Lesotho,1,Actuel,"",1966
+99349,SS,SSD,728,Soudan du Sud,République du Soudan du Sud,1,Actuel,"",2011
+99350,MA,MAR,504,Maroc,Royaume du Maroc,1,Actuel,"",1956
+99351,TN,TUN,788,Tunisie,République tunisienne,1,Actuel,"",1956
+99352,DZ,DZA,012,Algérie,République algérienne démocratique et populaire,1,Actuel,"",1962
+99363,"","","",Terres australes norvégiennes,"Île Bouvet, île Pierre-Ier, terre de la Reine-Maud",4,Territoire ayant son propre code officiel géographique,99103,0
+99389,EH,ESH,732,Sahara occidental,Sahara occidental,4,Territoire ayant son propre code officiel géographique,"",1994
+99390,MU,MUS,480,Maurice,République de Maurice,1,Actuel,"",1968
+99391,SZ,SWZ,748,Swaziland,Royaume du Swaziland,1,Actuel,"",1968
+99392,GW,GNB,624,Guinée-Bissao,République de Guinée-Bissao,1,Actuel,"",1974
+99393,MZ,MOZ,508,Mozambique,République du Mozambique,1,Actuel,"",1975
+99394,ST,STP,678,Sao Tomé-et-Principe,République démocratique de Sao Tomé-et-Principe,1,Actuel,"",1975
+99395,AO,AGO,024,Angola,République d’Angola,1,Actuel,"",1975
+99396,CV,CPV,132,Cap-Vert,République du Cap-Vert,1,Actuel,"",1975
+99397,KM,COM,174,Comores,Union des Comores,1,Actuel,"",1975
+99398,SC,SYC,690,Seychelles,République des Seychelles,1,Actuel,"",1976
+99399,DJ,DJI,262,Djibouti,République de Djibouti,1,Actuel,"",1977
+99401,CA,CAN,124,Canada,Canada,1,Actuel,"",0
+99404,US,USA,840,États-Unis,États-Unis d’Amérique,1,Actuel,"",0
+99405,MX,MEX,484,Mexique,États-Unis du Mexique,1,Actuel,"",0
+99406,CR,CRI,188,Costa Rica,République du Costa Rica,1,Actuel,"",0
+99407,CU,CUB,192,Cuba,République de Cuba,1,Actuel,"",0
+99408,DO,DOM,214,République dominicaine,République dominicaine,1,Actuel,"",0
+99409,GT,GTM,320,Guatémala,République du Guatémala,1,Actuel,"",0
+99410,HT,HTI,332,Haïti,République d’Haïti,1,Actuel,"",0
+99411,HN,HND,340,Honduras,République du Honduras,1,Actuel,"",0
+99412,NI,NIC,558,Nicaragua,République du Nicaragua,1,Actuel,"",0
+99413,PA,PAN,591,Panama,République du Panama,1,Actuel,"",0
+99414,SV,SLV,222,Salvador,République du Salvador,1,Actuel,"",0
+99415,AR,ARG,032,Argentine,République argentine,1,Actuel,"",0
+99416,BR,BRA,076,Brésil,République fédérative du Brésil,1,Actuel,"",0
+99417,CL,CHL,152,Chili,République du Chili,1,Actuel,"",0
+99418,BO,BOL,068,Bolivie,État plurinational de Bolivie,1,Actuel,"",0
+99419,CO,COL,170,Colombie,République de Colombie,1,Actuel,"",0
+99420,EC,ECU,218,Équateur,République d’Équateur,1,Actuel,"",0
+99421,PY,PRY,600,Paraguay,République du Paraguay,1,Actuel,"",0
+99422,PE,PER,604,Pérou,République du Pérou,1,Actuel,"",0
+99423,UY,URY,858,Uruguay,République orientale de l’Uruguay,1,Actuel,"",0
+99424,VE,VEN,862,Vénézuéla,République bolivarienne du Vénézuéla,1,Actuel,"",0
+99425,"","","",Territoires britanniques dans les Antilles et Bermudes,"Îles Turks-et-Caïcos, îles Caïmans, Montserrat, Anguilla, îles Vierges britanniques, Bermudes",4,Territoire ayant son propre code officiel géographique,99132,0
+99426,JM,JAM,388,Jamaïque,Jamaïque,1,Actuel,"",0
+99427,"","","",Territoires britanniques dans l’océan Atlantique Sud,"Îles Malouines, territoire antarctique britannique, Géorgie-du-Sud-et-les-îles-Sandwich-du-Sud",4,Territoire ayant son propre code officiel géographique,99132,0
+99428,GY,GUY,328,Guyana,République coopérative du Guyana,1,Actuel,"",0
+99429,BZ,BLZ,084,Bélize,Bélize,1,Actuel,"",0
+99430,GL,GRL,304,Groenland,Groenland,4,Territoire ayant son propre code officiel géographique,99101,0
+99431,AW,ABW,533,Aruba,Aruba,4,Territoire ayant son propre code officiel géographique,99135,0
+99432,"","","",Territoires des États-Unis en Amérique,"Porto Rico, îles Vierges des États-Unis",4,Territoire ayant son propre code officiel géographique,99404,0
+99433,TT,TTO,780,Trinité-et-Tobago,République de Trinité-et-Tobago,1,Actuel,"",1962
+99434,BB,BRB,052,Barbade,Barbade,1,Actuel,"",1966
+99435,GD,GRD,308,Grenade,Grenade,1,Actuel,"",1974
+99436,BS,BHS,044,Bahamas,Commonwealth des Bahamas,1,Actuel,"",1973
+99437,SR,SUR,740,Suriname,République du Suriname,1,Actuel,"",1975
+99438,DM,DMA,212,Dominique,Commonwealth de Dominique,1,Actuel,"",1978
+99439,LC,LCA,662,Sainte-Lucie,Sainte-Lucie,1,Actuel,"",1979
+99440,VC,VCT,670,Saint-Vincent-et-les-Grenadines,Saint-Vincent-et-les-Grenadines,1,Actuel,"",1979
+99441,AG,ATG,028,Antigua-et-Barbuda,Antigua-et-Barbuda,1,Actuel,"",1981
+99442,KN,KNA,659,Saint-Christophe-et-Niévès,Fédération de Saint-Christophe-et-Niévès,1,Actuel,"",1983
+99443,BQ,BES,535,"Bonaire, Saint-Eustache, Saba","Bonaire, Saint-Eustache, Saba",4,Territoire ayant son propre code officiel géographique,99135,2010
+99444,CW,CUW,531,Curaçao,Curaçao,4,Territoire ayant son propre code officiel géographique,99135,2010
+99445,SX,SXM,534,Saint-Martin (partie néerlandaise),Saint-Martin (partie néerlandaise),4,Territoire ayant son propre code officiel géographique,99135,2010
+99446,"","","",Territoire antarctique argentin,Territoire antarctique argentin,4,Territoire ayant son propre code officiel géographique,99415,0
+99447,"","","",Territoire antarctique chilien,Territoire antarctique chilien,4,Territoire ayant son propre code officiel géographique,99417,0
+99501,AU,AUS,036,Australie,Commonwealth d’Australie,1,Actuel,"",0
+99502,NZ,NZL,554,Nouvelle-Zélande,Nouvelle-Zélande,1,Actuel,"",0
+99503,PN,PCN,612,Pitcairn,Pitcairn,4,Territoire ayant son propre code officiel géographique,99132,0
+99505,"","","",Territoires des États-Unis en Océanie,"Îles Mariannes du Nord, Guam, îles Samoa américaines, îles mineures éloignées des États-Unis",4,Territoire ayant son propre code officiel géographique,99404,0
+99506,WS,WSM,882,Samoa,État indépendant des Samoa,1,Actuel,"",1962
+99507,NR,NRU,520,Nauru,République de Nauru,1,Actuel,"",1968
+99508,FJ,FJI,242,Fidji,République des Fidji,1,Actuel,"",1970
+99509,TO,TON,776,Tonga,Royaume des Tonga,1,Actuel,"",1970
+99510,PG,PNG,598,Papouasie-Nouvelle-Guinée,État indépendant de Papouasie-Nouvelle-Guinée,1,Actuel,"",1975
+99511,TV,TUV,798,Tuvalu,Tuvalu,1,Actuel,"",1978
+99512,SB,SLB,090,Salomon,Îles Salomon,1,Actuel,"",1978
+99513,KI,KIR,296,Kiribati,République des Kiribati,1,Actuel,"",1979
+99514,VU,VUT,548,Vanuatu,République du Vanuatu,1,Actuel,"",1980
+99515,MH,MHL,584,Marshall,République des îles Marshall,1,Actuel,"",1990
+99516,FM,FSM,583,Micronésie,États fédérés de Micronésie,1,Actuel,"",1990
+99517,PW,PLW,585,Palaos,République des Palaos,1,Actuel,"",1994
+99519,"","","",Territoires de la Nouvelle-Zélande,"Tokelau, dépendance de Ross",4,Territoire ayant son propre code officiel géographique,99502,0
+99520,CK,COK,184,Cook,Îles Cook,4,Territoire ayant son propre code officiel géographique,99502,1965
+99521,NU,NIU,570,Niue,Niue,4,Territoire ayant son propre code officiel géographique,99502,1974
+99522,"","","",Territoires de l’Australie en Océanie,"Île Norfolk, îles de la mer de Corail",4,Territoire ayant son propre code officiel géographique,99501,0
+99699,AQ,ATA,010,Antarctique,Antarctique,4,Territoire ayant son propre code officiel géographique,"",0

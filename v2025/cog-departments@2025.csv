@@ -1,0 +1,102 @@
+code,name,single_name,simple_name,identity,group_name,is_metropolitan,article_id,article,preposition,capital_code,capital_name,region_code,region_name,region_identity
+01,Ain,Ain,AIN,01 – Ain,Département de L'Ain,true,5,L',de L',01053,Bourg-en-Bresse,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+02,Aisne,Aisne,AISNE,02 – Aisne,Département de L'Aisne,true,5,L',de L',02408,Laon,32,Hauts-de-France,32 – Hauts-de-France
+03,Allier,Allier,ALLIER,03 – Allier,Département de L'Allier,true,5,L',de L',03190,Moulins,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+04,Alpes-de-Haute-Provence,Alpes-de-Haute-Provence,ALPES DE HAUTE PROVENCE,04 – Alpes-de-Haute-Provence,Département des Alpes-de-Haute-Provence,true,4,Les ,des ,04070,Digne-les-Bains,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+05,Hautes-Alpes,Hautes-Alpes,HAUTES ALPES,05 – Hautes-Alpes,Département des Hautes-Alpes,true,4,Les ,des ,05061,Gap,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+06,Alpes-Maritimes,Alpes-Maritimes,ALPES MARITIMES,06 – Alpes-Maritimes,Département des Alpes-Maritimes,true,4,Les ,des ,06088,Nice,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+07,Ardèche,Ardèche,ARDECHE,07 – Ardèche,Département de L'Ardèche,true,5,L',de L',07186,Privas,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+08,Ardennes,Ardennes,ARDENNES,08 – Ardennes,Département des Ardennes,true,4,Les ,des ,08105,Charleville-Mézières,44,Grand Est,44 – Grand Est
+09,Ariège,Ariège,ARIEGE,09 – Ariège,Département de L'Ariège,true,5,L',de L',09122,Foix,76,Occitanie,76 – Occitanie
+10,Aube,Aube,AUBE,10 – Aube,Département de L'Aube,true,5,L',de L',10387,Troyes,44,Grand Est,44 – Grand Est
+11,Aude,Aude,AUDE,11 – Aude,Département de L'Aude,true,5,L',de L',11069,Carcassonne,76,Occitanie,76 – Occitanie
+12,Aveyron,Aveyron,AVEYRON,12 – Aveyron,Département de L'Aveyron,true,5,L',de L',12202,Rodez,76,Occitanie,76 – Occitanie
+13,Bouches-du-Rhône,Bouches-du-Rhône,BOUCHES DU RHONE,13 – Bouches-du-Rhône,Département des Bouches-du-Rhône,true,4,Les ,des ,13055,Marseille,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+14,Calvados,Calvados,CALVADOS,14 – Calvados,Département du Calvados,true,2,Le ,du ,14118,Caen,28,Normandie,28 – Normandie
+15,Cantal,Cantal,CANTAL,15 – Cantal,Département du Cantal,true,2,Le ,du ,15014,Aurillac,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+16,Charente,Charente,CHARENTE,16 – Charente,Département de La Charente,true,3,La ,de La ,16015,Angoulême,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+17,Charente-Maritime,Charente-Maritime,CHARENTE MARITIME,17 – Charente-Maritime,Département de La Charente-Maritime,true,3,La ,de La ,17300,La Rochelle,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+18,Cher,Cher,CHER,18 – Cher,Département du Cher,true,2,Le ,du ,18033,Bourges,24,Centre-Val de Loire,24 – Centre-Val de Loire
+19,Corrèze,Corrèze,CORREZE,19 – Corrèze,Département de La Corrèze,true,3,La ,de La ,19272,Tulle,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+21,Côte-d'Or,Côte-d'Or,COTE D OR,21 – Côte-d'Or,Département de La Côte-d'Or,true,3,La ,de La ,21231,Dijon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+22,Côtes-d'Armor,Côtes-d'Armor,COTES D ARMOR,22 – Côtes-d'Armor,Département des Côtes-d'Armor,true,4,Les ,des ,22278,Saint-Brieuc,53,Bretagne,53 – Bretagne
+23,Creuse,Creuse,CREUSE,23 – Creuse,Département de La Creuse,true,3,La ,de La ,23096,Guéret,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+24,Dordogne,Dordogne,DORDOGNE,24 – Dordogne,Département de La Dordogne,true,3,La ,de La ,24322,Périgueux,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+25,Doubs,Doubs,DOUBS,25 – Doubs,Département du Doubs,true,2,Le ,du ,25056,Besançon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+26,Drôme,Drôme,DROME,26 – Drôme,Département de La Drôme,true,3,La ,de La ,26362,Valence,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+27,Eure,Eure,EURE,27 – Eure,Département de L'Eure,true,5,L',de L',27229,Évreux,28,Normandie,28 – Normandie
+28,Eure-et-Loir,Eure-et-Loir,EURE ET LOIR,28 – Eure-et-Loir,Département d'Eure-et-Loir,true,1,"",d',28085,Chartres,24,Centre-Val de Loire,24 – Centre-Val de Loire
+29,Finistère,Finistère,FINISTERE,29 – Finistère,Département du Finistère,true,2,Le ,du ,29232,Quimper,53,Bretagne,53 – Bretagne
+2A,Corse-du-Sud,Corse-du-Sud,CORSE DU SUD,2A – Corse-du-Sud,Département de La Corse-du-Sud,true,3,La ,de La ,2A004,Ajaccio,94,Corse,94 – Corse
+2B,Haute-Corse,Haute-Corse,HAUTE CORSE,2B – Haute-Corse,Département de La Haute-Corse,true,3,La ,de La ,2B033,Bastia,94,Corse,94 – Corse
+30,Gard,Gard,GARD,30 – Gard,Département du Gard,true,2,Le ,du ,30189,Nîmes,76,Occitanie,76 – Occitanie
+31,Haute-Garonne,Haute-Garonne,HAUTE GARONNE,31 – Haute-Garonne,Département de La Haute-Garonne,true,3,La ,de La ,31555,Toulouse,76,Occitanie,76 – Occitanie
+32,Gers,Gers,GERS,32 – Gers,Département du Gers,true,2,Le ,du ,32013,Auch,76,Occitanie,76 – Occitanie
+33,Gironde,Gironde,GIRONDE,33 – Gironde,Département de La Gironde,true,3,La ,de La ,33063,Bordeaux,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+34,Hérault,Hérault,HERAULT,34 – Hérault,Département de L'Hérault,true,5,L',de L',34172,Montpellier,76,Occitanie,76 – Occitanie
+35,Ille-et-Vilaine,Ille-et-Vilaine,ILLE ET VILAINE,35 – Ille-et-Vilaine,Département d'Ille-et-Vilaine,true,1,"",d',35238,Rennes,53,Bretagne,53 – Bretagne
+36,Indre,Indre,INDRE,36 – Indre,Département de L'Indre,true,5,L',de L',36044,Châteauroux,24,Centre-Val de Loire,24 – Centre-Val de Loire
+37,Indre-et-Loire,Indre-et-Loire,INDRE ET LOIRE,37 – Indre-et-Loire,Département d'Indre-et-Loire,true,1,"",d',37261,Tours,24,Centre-Val de Loire,24 – Centre-Val de Loire
+38,Isère,Isère,ISERE,38 – Isère,Département de L'Isère,true,5,L',de L',38185,Grenoble,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+39,Jura,Jura,JURA,39 – Jura,Département du Jura,true,2,Le ,du ,39300,Lons-le-Saunier,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+40,Landes,Landes,LANDES,40 – Landes,Département des Landes,true,4,Les ,des ,40192,Mont-de-Marsan,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+41,Loir-et-Cher,Loir-et-Cher,LOIR ET CHER,41 – Loir-et-Cher,Département du Loir-et-Cher,true,2,Le ,du ,41018,Blois,24,Centre-Val de Loire,24 – Centre-Val de Loire
+42,Loire,Loire,LOIRE,42 – Loire,Département de La Loire,true,3,La ,de La ,42218,Saint-Étienne,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+43,Haute-Loire,Haute-Loire,HAUTE LOIRE,43 – Haute-Loire,Département de La Haute-Loire,true,3,La ,de La ,43157,Le Puy-en-Velay,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+44,Loire-Atlantique,Loire-Atlantique,LOIRE ATLANTIQUE,44 – Loire-Atlantique,Département de La Loire-Atlantique,true,3,La ,de La ,44109,Nantes,52,Pays de la Loire,52 – Pays de la Loire
+45,Loiret,Loiret,LOIRET,45 – Loiret,Département du Loiret,true,2,Le ,du ,45234,Orléans,24,Centre-Val de Loire,24 – Centre-Val de Loire
+46,Lot,Lot,LOT,46 – Lot,Département du Lot,true,2,Le ,du ,46042,Cahors,76,Occitanie,76 – Occitanie
+47,Lot-et-Garonne,Lot-et-Garonne,LOT ET GARONNE,47 – Lot-et-Garonne,Département du Lot-et-Garonne,true,2,Le ,du ,47001,Agen,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+48,Lozère,Lozère,LOZERE,48 – Lozère,Département de La Lozère,true,3,La ,de La ,48095,Mende,76,Occitanie,76 – Occitanie
+49,Maine-et-Loire,Maine-et-Loire,MAINE ET LOIRE,49 – Maine-et-Loire,Département de Maine-et-Loire,true,0,"",de ,49007,Angers,52,Pays de la Loire,52 – Pays de la Loire
+50,Manche,Manche,MANCHE,50 – Manche,Département de La Manche,true,3,La ,de La ,50502,Saint-Lô,28,Normandie,28 – Normandie
+51,Marne,Marne,MARNE,51 – Marne,Département de La Marne,true,3,La ,de La ,51108,Châlons-en-Champagne,44,Grand Est,44 – Grand Est
+52,Haute-Marne,Haute-Marne,HAUTE MARNE,52 – Haute-Marne,Département de La Haute-Marne,true,3,La ,de La ,52121,Chaumont,44,Grand Est,44 – Grand Est
+53,Mayenne,Mayenne,MAYENNE,53 – Mayenne,Département de La Mayenne,true,3,La ,de La ,53130,Laval,52,Pays de la Loire,52 – Pays de la Loire
+54,Meurthe-et-Moselle,Meurthe-et-Moselle,MEURTHE ET MOSELLE,54 – Meurthe-et-Moselle,Département de Meurthe-et-Moselle,true,0,"",de ,54395,Nancy,44,Grand Est,44 – Grand Est
+55,Meuse,Meuse,MEUSE,55 – Meuse,Département de La Meuse,true,3,La ,de La ,55029,Bar-le-Duc,44,Grand Est,44 – Grand Est
+56,Morbihan,Morbihan,MORBIHAN,56 – Morbihan,Département du Morbihan,true,2,Le ,du ,56260,Vannes,53,Bretagne,53 – Bretagne
+57,Moselle,Moselle,MOSELLE,57 – Moselle,Département de La Moselle,true,3,La ,de La ,57463,Metz,44,Grand Est,44 – Grand Est
+58,Nièvre,Nièvre,NIEVRE,58 – Nièvre,Département de La Nièvre,true,3,La ,de La ,58194,Nevers,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+59,Nord,Nord,NORD,59 – Nord,Département du Nord,true,2,Le ,du ,59350,Lille,32,Hauts-de-France,32 – Hauts-de-France
+60,Oise,Oise,OISE,60 – Oise,Département de L'Oise,true,5,L',de L',60057,Beauvais,32,Hauts-de-France,32 – Hauts-de-France
+61,Orne,Orne,ORNE,61 – Orne,Département de L'Orne,true,5,L',de L',61001,Alençon,28,Normandie,28 – Normandie
+62,Pas-de-Calais,Pas-de-Calais,PAS DE CALAIS,62 – Pas-de-Calais,Département du Pas-de-Calais,true,2,Le ,du ,62041,Arras,32,Hauts-de-France,32 – Hauts-de-France
+63,Puy-de-Dôme,Puy-de-Dôme,PUY DE DOME,63 – Puy-de-Dôme,Département du Puy-de-Dôme,true,2,Le ,du ,63113,Clermont-Ferrand,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+64,Pyrénées-Atlantiques,Pyrénées-Atlantiques,PYRENEES ATLANTIQUES,64 – Pyrénées-Atlantiques,Département des Pyrénées-Atlantiques,true,4,Les ,des ,64445,Pau,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+65,Hautes-Pyrénées,Hautes-Pyrénées,HAUTES PYRENEES,65 – Hautes-Pyrénées,Département des Hautes-Pyrénées,true,4,Les ,des ,65440,Tarbes,76,Occitanie,76 – Occitanie
+66,Pyrénées-Orientales,Pyrénées-Orientales,PYRENEES ORIENTALES,66 – Pyrénées-Orientales,Département des Pyrénées-Orientales,true,4,Les ,des ,66136,Perpignan,76,Occitanie,76 – Occitanie
+67,Bas-Rhin,Bas-Rhin,BAS RHIN,67 – Bas-Rhin,Département du Bas-Rhin,true,2,Le ,du ,67482,Strasbourg,44,Grand Est,44 – Grand Est
+68,Haut-Rhin,Haut-Rhin,HAUT RHIN,68 – Haut-Rhin,Département du Haut-Rhin,true,2,Le ,du ,68066,Colmar,44,Grand Est,44 – Grand Est
+69,Rhône,Rhône,RHONE,69 – Rhône,Département du Rhône,true,2,Le ,du ,69123,Lyon,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+70,Haute-Saône,Haute-Saône,HAUTE SAONE,70 – Haute-Saône,Département de La Haute-Saône,true,3,La ,de La ,70550,Vesoul,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+71,Saône-et-Loire,Saône-et-Loire,SAONE ET LOIRE,71 – Saône-et-Loire,Département de Saône-et-Loire,true,0,"",de ,71270,Mâcon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+72,Sarthe,Sarthe,SARTHE,72 – Sarthe,Département de La Sarthe,true,3,La ,de La ,72181,Le Mans,52,Pays de la Loire,52 – Pays de la Loire
+73,Savoie,Savoie,SAVOIE,73 – Savoie,Département de La Savoie,true,3,La ,de La ,73065,Chambéry,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+74,Haute-Savoie,Haute-Savoie,HAUTE SAVOIE,74 – Haute-Savoie,Département de La Haute-Savoie,true,3,La ,de La ,74010,Annecy,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes
+75,Paris,Paris,PARIS,75 – Paris,Département de Paris,true,0,"",de ,75056,Paris,11,Île-de-France,11 – Île-de-France
+76,Seine-Maritime,Seine-Maritime,SEINE MARITIME,76 – Seine-Maritime,Département de La Seine-Maritime,true,3,La ,de La ,76540,Rouen,28,Normandie,28 – Normandie
+77,Seine-et-Marne,Seine-et-Marne,SEINE ET MARNE,77 – Seine-et-Marne,Département de Seine-et-Marne,true,0,"",de ,77288,Melun,11,Île-de-France,11 – Île-de-France
+78,Yvelines,Yvelines,YVELINES,78 – Yvelines,Département des Yvelines,true,4,Les ,des ,78646,Versailles,11,Île-de-France,11 – Île-de-France
+79,Deux-Sèvres,Deux-Sèvres,DEUX SEVRES,79 – Deux-Sèvres,Département des Deux-Sèvres,true,4,Les ,des ,79191,Niort,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+80,Somme,Somme,SOMME,80 – Somme,Département de La Somme,true,3,La ,de La ,80021,Amiens,32,Hauts-de-France,32 – Hauts-de-France
+81,Tarn,Tarn,TARN,81 – Tarn,Département du Tarn,true,2,Le ,du ,81004,Albi,76,Occitanie,76 – Occitanie
+82,Tarn-et-Garonne,Tarn-et-Garonne,TARN ET GARONNE,82 – Tarn-et-Garonne,Département du Tarn-et-Garonne,true,2,Le ,du ,82121,Montauban,76,Occitanie,76 – Occitanie
+83,Var,Var,VAR,83 – Var,Département du Var,true,2,Le ,du ,83137,Toulon,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+84,Vaucluse,Vaucluse,VAUCLUSE,84 – Vaucluse,Département du Vaucluse,true,2,Le ,du ,84007,Avignon,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur
+85,Vendée,Vendée,VENDEE,85 – Vendée,Département de La Vendée,true,3,La ,de La ,85191,La Roche-sur-Yon,52,Pays de la Loire,52 – Pays de la Loire
+86,Vienne,Vienne,VIENNE,86 – Vienne,Département de La Vienne,true,3,La ,de La ,86194,Poitiers,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+87,Haute-Vienne,Haute-Vienne,HAUTE VIENNE,87 – Haute-Vienne,Département de La Haute-Vienne,true,3,La ,de La ,87085,Limoges,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine
+88,Vosges,Vosges,VOSGES,88 – Vosges,Département des Vosges,true,4,Les ,des ,88160,Épinal,44,Grand Est,44 – Grand Est
+89,Yonne,Yonne,YONNE,89 – Yonne,Département de L'Yonne,true,5,L',de L',89024,Auxerre,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+90,Territoire de Belfort,Territoire de Belfort,TERRITOIRE DE BELFORT,90 – Territoire de Belfort,Département du Territoire de Belfort,true,2,Le ,du ,90010,Belfort,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté
+91,Essonne,Essonne,ESSONNE,91 – Essonne,Département de L'Essonne,true,5,L',de L',91228,Évry-Courcouronnes,11,Île-de-France,11 – Île-de-France
+92,Hauts-de-Seine,Hauts-de-Seine,HAUTS DE SEINE,92 – Hauts-de-Seine,Département des Hauts-de-Seine,true,4,Les ,des ,92050,Nanterre,11,Île-de-France,11 – Île-de-France
+93,Seine-Saint-Denis,Seine-Saint-Denis,SEINE SAINT DENIS,93 – Seine-Saint-Denis,Département de La Seine-Saint-Denis,true,3,La ,de La ,93008,Bobigny,11,Île-de-France,11 – Île-de-France
+94,Val-de-Marne,Val-de-Marne,VAL DE MARNE,94 – Val-de-Marne,Département du Val-de-Marne,true,2,Le ,du ,94028,Créteil,11,Île-de-France,11 – Île-de-France
+95,Val-d'Oise,Val-d'Oise,VAL D OISE,95 – Val-d'Oise,Département du Val-d'Oise,true,2,Le ,du ,95500,Pontoise,11,Île-de-France,11 – Île-de-France
+971,Guadeloupe,Guadeloupe,GUADELOUPE,971 – Guadeloupe,Département de La Guadeloupe,false,3,La ,de La ,97105,Basse-Terre,01,Guadeloupe,01 – Guadeloupe
+972,Martinique,Martinique,MARTINIQUE,972 – Martinique,Département de La Martinique,false,3,La ,de La ,97209,Fort-de-France,02,Martinique,02 – Martinique
+973,Guyane,Guyane,GUYANE,973 – Guyane,Département de La Guyane,false,3,La ,de La ,97302,Cayenne,03,Guyane,03 – Guyane
+974,La Réunion,La Réunion,LA REUNION,974 – La Réunion,Département de La Réunion,false,0,"",de ,97411,Saint-Denis,04,La Réunion,04 – La Réunion
+976,Mayotte,Mayotte,MAYOTTE,976 – Mayotte,Département de Mayotte,false,0,"",de ,97611,Mamoudzou,06,Mayotte,06 – Mayotte

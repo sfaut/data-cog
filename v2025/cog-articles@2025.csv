@@ -1,0 +1,10 @@
+id,article,preposition,comment
+0,"",de ,Pas d'article et le nom commence par une consonne sauf H muet
+1,"",d',Pas d'article et le nom commence par une voyelle ou un H muet
+2,Le ,du ,""
+3,La ,de La ,""
+4,Les ,des ,""
+5,L',de L',""
+6,aux ,des ,""
+7,Las ,de Las ,""
+8,Los ,de Los ,""

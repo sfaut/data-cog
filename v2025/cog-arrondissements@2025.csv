@@ -1,0 +1,334 @@
+code,name,single_name,simple_name,identity,group_name,is_metropolitan,article_id,article,preposition,capital_code,capital_name,region_code,region_name,region_identity,department_code,department_name,department_identity
+011,Belley,Belley,BELLEY,011 – Belley,Arrondissement de Belley,true,0,"",de ,01034,Belley,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,01,Ain,01 – Ain
+012,Bourg-en-Bresse,Bourg-en-Bresse,BOURG EN BRESSE,012 – Bourg-en-Bresse,Arrondissement de Bourg-en-Bresse,true,0,"",de ,01053,Bourg-en-Bresse,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,01,Ain,01 – Ain
+013,Gex,Gex,GEX,013 – Gex,Arrondissement de Gex,true,0,"",de ,01173,Gex,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,01,Ain,01 – Ain
+014,Nantua,Nantua,NANTUA,014 – Nantua,Arrondissement de Nantua,true,0,"",de ,01269,Nantua,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,01,Ain,01 – Ain
+021,Château-Thierry,Château-Thierry,CHATEAU THIERRY,021 – Château-Thierry,Arrondissement de Château-Thierry,true,0,"",de ,02168,Château-Thierry,32,Hauts-de-France,32 – Hauts-de-France,02,Aisne,02 – Aisne
+022,Laon,Laon,LAON,022 – Laon,Arrondissement de Laon,true,0,"",de ,02408,Laon,32,Hauts-de-France,32 – Hauts-de-France,02,Aisne,02 – Aisne
+023,Saint-Quentin,Saint-Quentin,SAINT QUENTIN,023 – Saint-Quentin,Arrondissement de Saint-Quentin,true,0,"",de ,02691,Saint-Quentin,32,Hauts-de-France,32 – Hauts-de-France,02,Aisne,02 – Aisne
+024,Soissons,Soissons,SOISSONS,024 – Soissons,Arrondissement de Soissons,true,0,"",de ,02722,Soissons,32,Hauts-de-France,32 – Hauts-de-France,02,Aisne,02 – Aisne
+025,Vervins,Vervins,VERVINS,025 – Vervins,Arrondissement de Vervins,true,0,"",de ,02789,Vervins,32,Hauts-de-France,32 – Hauts-de-France,02,Aisne,02 – Aisne
+031,Montluçon,Montluçon,MONTLUCON,031 – Montluçon,Arrondissement de Montluçon,true,0,"",de ,03185,Montluçon,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,03,Allier,03 – Allier
+032,Moulins,Moulins,MOULINS,032 – Moulins,Arrondissement de Moulins,true,0,"",de ,03190,Moulins,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,03,Allier,03 – Allier
+033,Vichy,Vichy,VICHY,033 – Vichy,Arrondissement de Vichy,true,0,"",de ,03310,Vichy,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,03,Allier,03 – Allier
+041,Barcelonnette,Barcelonnette,BARCELONNETTE,041 – Barcelonnette,Arrondissement de Barcelonnette,true,0,"",de ,04019,Barcelonnette,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,04 – Alpes-de-Haute-Provence
+042,Castellane,Castellane,CASTELLANE,042 – Castellane,Arrondissement de Castellane,true,0,"",de ,04039,Castellane,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,04 – Alpes-de-Haute-Provence
+043,Digne-les-Bains,Digne-les-Bains,DIGNE LES BAINS,043 – Digne-les-Bains,Arrondissement de Digne-les-Bains,true,0,"",de ,04070,Digne-les-Bains,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,04 – Alpes-de-Haute-Provence
+044,Forcalquier,Forcalquier,FORCALQUIER,044 – Forcalquier,Arrondissement de Forcalquier,true,0,"",de ,04088,Forcalquier,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,04 – Alpes-de-Haute-Provence
+051,Briançon,Briançon,BRIANCON,051 – Briançon,Arrondissement de Briançon,true,0,"",de ,05023,Briançon,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,05 – Hautes-Alpes
+052,Gap,Gap,GAP,052 – Gap,Arrondissement de Gap,true,0,"",de ,05061,Gap,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,05 – Hautes-Alpes
+061,Grasse,Grasse,GRASSE,061 – Grasse,Arrondissement de Grasse,true,0,"",de ,06069,Grasse,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,06 – Alpes-Maritimes
+062,Nice,Nice,NICE,062 – Nice,Arrondissement de Nice,true,0,"",de ,06088,Nice,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,06 – Alpes-Maritimes
+071,Largentière,Largentière,LARGENTIERE,071 – Largentière,Arrondissement de Largentière,true,0,"",de ,07132,Largentière,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,07,Ardèche,07 – Ardèche
+072,Privas,Privas,PRIVAS,072 – Privas,Arrondissement de Privas,true,0,"",de ,07186,Privas,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,07,Ardèche,07 – Ardèche
+073,Tournon-sur-Rhône,Tournon-sur-Rhône,TOURNON SUR RHONE,073 – Tournon-sur-Rhône,Arrondissement de Tournon-sur-Rhône,true,0,"",de ,07324,Tournon-sur-Rhône,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,07,Ardèche,07 – Ardèche
+081,Charleville-Mézières,Charleville-Mézières,CHARLEVILLE MEZIERES,081 – Charleville-Mézières,Arrondissement de Charleville-Mézières,true,0,"",de ,08105,Charleville-Mézières,44,Grand Est,44 – Grand Est,08,Ardennes,08 – Ardennes
+082,Rethel,Rethel,RETHEL,082 – Rethel,Arrondissement de Rethel,true,0,"",de ,08362,Rethel,44,Grand Est,44 – Grand Est,08,Ardennes,08 – Ardennes
+083,Sedan,Sedan,SEDAN,083 – Sedan,Arrondissement de Sedan,true,0,"",de ,08409,Sedan,44,Grand Est,44 – Grand Est,08,Ardennes,08 – Ardennes
+084,Vouziers,Vouziers,VOUZIERS,084 – Vouziers,Arrondissement de Vouziers,true,0,"",de ,08490,Vouziers,44,Grand Est,44 – Grand Est,08,Ardennes,08 – Ardennes
+091,Foix,Foix,FOIX,091 – Foix,Arrondissement de Foix,true,0,"",de ,09122,Foix,76,Occitanie,76 – Occitanie,09,Ariège,09 – Ariège
+092,Pamiers,Pamiers,PAMIERS,092 – Pamiers,Arrondissement de Pamiers,true,0,"",de ,09225,Pamiers,76,Occitanie,76 – Occitanie,09,Ariège,09 – Ariège
+093,Saint-Girons,Saint-Girons,SAINT GIRONS,093 – Saint-Girons,Arrondissement de Saint-Girons,true,0,"",de ,09261,Saint-Girons,76,Occitanie,76 – Occitanie,09,Ariège,09 – Ariège
+101,Bar-sur-Aube,Bar-sur-Aube,BAR SUR AUBE,101 – Bar-sur-Aube,Arrondissement de Bar-sur-Aube,true,0,"",de ,10033,Bar-sur-Aube,44,Grand Est,44 – Grand Est,10,Aube,10 – Aube
+102,Nogent-sur-Seine,Nogent-sur-Seine,NOGENT SUR SEINE,102 – Nogent-sur-Seine,Arrondissement de Nogent-sur-Seine,true,0,"",de ,10268,Nogent-sur-Seine,44,Grand Est,44 – Grand Est,10,Aube,10 – Aube
+103,Troyes,Troyes,TROYES,103 – Troyes,Arrondissement de Troyes,true,0,"",de ,10387,Troyes,44,Grand Est,44 – Grand Est,10,Aube,10 – Aube
+111,Carcassonne,Carcassonne,CARCASSONNE,111 – Carcassonne,Arrondissement de Carcassonne,true,0,"",de ,11069,Carcassonne,76,Occitanie,76 – Occitanie,11,Aude,11 – Aude
+112,Limoux,Limoux,LIMOUX,112 – Limoux,Arrondissement de Limoux,true,0,"",de ,11206,Limoux,76,Occitanie,76 – Occitanie,11,Aude,11 – Aude
+113,Narbonne,Narbonne,NARBONNE,113 – Narbonne,Arrondissement de Narbonne,true,0,"",de ,11262,Narbonne,76,Occitanie,76 – Occitanie,11,Aude,11 – Aude
+121,Millau,Millau,MILLAU,121 – Millau,Arrondissement de Millau,true,0,"",de ,12145,Millau,76,Occitanie,76 – Occitanie,12,Aveyron,12 – Aveyron
+122,Rodez,Rodez,RODEZ,122 – Rodez,Arrondissement de Rodez,true,0,"",de ,12202,Rodez,76,Occitanie,76 – Occitanie,12,Aveyron,12 – Aveyron
+123,Villefranche-de-Rouergue,Villefranche-de-Rouergue,VILLEFRANCHE DE ROUERGUE,123 – Villefranche-de-Rouergue,Arrondissement de Villefranche-de-Rouergue,true,0,"",de ,12300,Villefranche-de-Rouergue,76,Occitanie,76 – Occitanie,12,Aveyron,12 – Aveyron
+131,Aix-en-Provence,Aix-en-Provence,AIX EN PROVENCE,131 – Aix-en-Provence,Arrondissement d'Aix-en-Provence,true,1,"",d',13001,Aix-en-Provence,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,13 – Bouches-du-Rhône
+132,Arles,Arles,ARLES,132 – Arles,Arrondissement d'Arles,true,1,"",d',13004,Arles,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,13 – Bouches-du-Rhône
+133,Marseille,Marseille,MARSEILLE,133 – Marseille,Arrondissement de Marseille,true,0,"",de ,13055,Marseille,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,13 – Bouches-du-Rhône
+134,Istres,Istres,ISTRES,134 – Istres,Arrondissement d'Istres,true,1,"",d',13047,Istres,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,13 – Bouches-du-Rhône
+141,Bayeux,Bayeux,BAYEUX,141 – Bayeux,Arrondissement de Bayeux,true,0,"",de ,14047,Bayeux,28,Normandie,28 – Normandie,14,Calvados,14 – Calvados
+142,Caen,Caen,CAEN,142 – Caen,Arrondissement de Caen,true,0,"",de ,14118,Caen,28,Normandie,28 – Normandie,14,Calvados,14 – Calvados
+143,Lisieux,Lisieux,LISIEUX,143 – Lisieux,Arrondissement de Lisieux,true,0,"",de ,14366,Lisieux,28,Normandie,28 – Normandie,14,Calvados,14 – Calvados
+144,Vire,Vire,VIRE,144 – Vire,Arrondissement de Vire,true,0,"",de ,14762,Vire Normandie,28,Normandie,28 – Normandie,14,Calvados,14 – Calvados
+151,Aurillac,Aurillac,AURILLAC,151 – Aurillac,Arrondissement d'Aurillac,true,1,"",d',15014,Aurillac,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,15,Cantal,15 – Cantal
+152,Mauriac,Mauriac,MAURIAC,152 – Mauriac,Arrondissement de Mauriac,true,0,"",de ,15120,Mauriac,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,15,Cantal,15 – Cantal
+153,Saint-Flour,Saint-Flour,SAINT FLOUR,153 – Saint-Flour,Arrondissement de Saint-Flour,true,0,"",de ,15187,Saint-Flour,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,15,Cantal,15 – Cantal
+161,Angoulême,Angoulême,ANGOULEME,161 – Angoulême,Arrondissement d'Angoulême,true,1,"",d',16015,Angoulême,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,16,Charente,16 – Charente
+162,Cognac,Cognac,COGNAC,162 – Cognac,Arrondissement de Cognac,true,0,"",de ,16102,Cognac,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,16,Charente,16 – Charente
+163,Confolens,Confolens,CONFOLENS,163 – Confolens,Arrondissement de Confolens,true,0,"",de ,16106,Confolens,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,16,Charente,16 – Charente
+171,Jonzac,Jonzac,JONZAC,171 – Jonzac,Arrondissement de Jonzac,true,0,"",de ,17197,Jonzac,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,17,Charente-Maritime,17 – Charente-Maritime
+172,Rochefort,Rochefort,ROCHEFORT,172 – Rochefort,Arrondissement de Rochefort,true,0,"",de ,17299,Rochefort,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,17,Charente-Maritime,17 – Charente-Maritime
+173,La Rochelle,Rochelle,ROCHELLE,173 – La Rochelle,Arrondissement de La Rochelle,true,3,La ,de La ,17300,La Rochelle,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,17,Charente-Maritime,17 – Charente-Maritime
+174,Saintes,Saintes,SAINTES,174 – Saintes,Arrondissement de Saintes,true,0,"",de ,17415,Saintes,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,17,Charente-Maritime,17 – Charente-Maritime
+175,Saint-Jean-d'Angély,Saint-Jean-d'Angély,SAINT JEAN D ANGELY,175 – Saint-Jean-d'Angély,Arrondissement de Saint-Jean-d'Angély,true,0,"",de ,17347,Saint-Jean-d'Angély,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,17,Charente-Maritime,17 – Charente-Maritime
+181,Bourges,Bourges,BOURGES,181 – Bourges,Arrondissement de Bourges,true,0,"",de ,18033,Bourges,24,Centre-Val de Loire,24 – Centre-Val de Loire,18,Cher,18 – Cher
+182,Saint-Amand-Montrond,Saint-Amand-Montrond,SAINT AMAND MONTROND,182 – Saint-Amand-Montrond,Arrondissement de Saint-Amand-Montrond,true,0,"",de ,18197,Saint-Amand-Montrond,24,Centre-Val de Loire,24 – Centre-Val de Loire,18,Cher,18 – Cher
+183,Vierzon,Vierzon,VIERZON,183 – Vierzon,Arrondissement de Vierzon,true,0,"",de ,18279,Vierzon,24,Centre-Val de Loire,24 – Centre-Val de Loire,18,Cher,18 – Cher
+191,Brive-la-Gaillarde,Brive-la-Gaillarde,BRIVE LA GAILLARDE,191 – Brive-la-Gaillarde,Arrondissement de Brive-la-Gaillarde,true,0,"",de ,19031,Brive-la-Gaillarde,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,19,Corrèze,19 – Corrèze
+192,Tulle,Tulle,TULLE,192 – Tulle,Arrondissement de Tulle,true,0,"",de ,19272,Tulle,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,19,Corrèze,19 – Corrèze
+193,Ussel,Ussel,USSEL,193 – Ussel,Arrondissement d'Ussel,true,1,"",d',19275,Ussel,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,19,Corrèze,19 – Corrèze
+211,Beaune,Beaune,BEAUNE,211 – Beaune,Arrondissement de Beaune,true,0,"",de ,21054,Beaune,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,21,Côte-d'Or,21 – Côte-d'Or
+212,Dijon,Dijon,DIJON,212 – Dijon,Arrondissement de Dijon,true,0,"",de ,21231,Dijon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,21,Côte-d'Or,21 – Côte-d'Or
+213,Montbard,Montbard,MONTBARD,213 – Montbard,Arrondissement de Montbard,true,0,"",de ,21425,Montbard,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,21,Côte-d'Or,21 – Côte-d'Or
+221,Dinan,Dinan,DINAN,221 – Dinan,Arrondissement de Dinan,true,0,"",de ,22050,Dinan,53,Bretagne,53 – Bretagne,22,Côtes-d'Armor,22 – Côtes-d'Armor
+222,Guingamp,Guingamp,GUINGAMP,222 – Guingamp,Arrondissement de Guingamp,true,0,"",de ,22070,Guingamp,53,Bretagne,53 – Bretagne,22,Côtes-d'Armor,22 – Côtes-d'Armor
+223,Lannion,Lannion,LANNION,223 – Lannion,Arrondissement de Lannion,true,0,"",de ,22113,Lannion,53,Bretagne,53 – Bretagne,22,Côtes-d'Armor,22 – Côtes-d'Armor
+224,Saint-Brieuc,Saint-Brieuc,SAINT BRIEUC,224 – Saint-Brieuc,Arrondissement de Saint-Brieuc,true,0,"",de ,22278,Saint-Brieuc,53,Bretagne,53 – Bretagne,22,Côtes-d'Armor,22 – Côtes-d'Armor
+231,Aubusson,Aubusson,AUBUSSON,231 – Aubusson,Arrondissement d'Aubusson,true,1,"",d',23008,Aubusson,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,23,Creuse,23 – Creuse
+232,Guéret,Guéret,GUERET,232 – Guéret,Arrondissement de Guéret,true,0,"",de ,23096,Guéret,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,23,Creuse,23 – Creuse
+241,Bergerac,Bergerac,BERGERAC,241 – Bergerac,Arrondissement de Bergerac,true,0,"",de ,24037,Bergerac,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,24,Dordogne,24 – Dordogne
+242,Nontron,Nontron,NONTRON,242 – Nontron,Arrondissement de Nontron,true,0,"",de ,24311,Nontron,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,24,Dordogne,24 – Dordogne
+243,Périgueux,Périgueux,PERIGUEUX,243 – Périgueux,Arrondissement de Périgueux,true,0,"",de ,24322,Périgueux,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,24,Dordogne,24 – Dordogne
+244,Sarlat-la-Canéda,Sarlat-la-Canéda,SARLAT LA CANEDA,244 – Sarlat-la-Canéda,Arrondissement de Sarlat-la-Canéda,true,0,"",de ,24520,Sarlat-la-Canéda,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,24,Dordogne,24 – Dordogne
+251,Besançon,Besançon,BESANCON,251 – Besançon,Arrondissement de Besançon,true,0,"",de ,25056,Besançon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,25,Doubs,25 – Doubs
+252,Montbéliard,Montbéliard,MONTBELIARD,252 – Montbéliard,Arrondissement de Montbéliard,true,0,"",de ,25388,Montbéliard,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,25,Doubs,25 – Doubs
+253,Pontarlier,Pontarlier,PONTARLIER,253 – Pontarlier,Arrondissement de Pontarlier,true,0,"",de ,25462,Pontarlier,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,25,Doubs,25 – Doubs
+261,Die,Die,DIE,261 – Die,Arrondissement de Die,true,0,"",de ,26113,Die,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,26,Drôme,26 – Drôme
+262,Nyons,Nyons,NYONS,262 – Nyons,Arrondissement de Nyons,true,0,"",de ,26220,Nyons,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,26,Drôme,26 – Drôme
+263,Valence,Valence,VALENCE,263 – Valence,Arrondissement de Valence,true,0,"",de ,26362,Valence,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,26,Drôme,26 – Drôme
+271,Les Andelys,Andelys,ANDELYS,271 – Les Andelys,Arrondissement des Andelys,true,4,Les ,des ,27016,Les Andelys,28,Normandie,28 – Normandie,27,Eure,27 – Eure
+272,Bernay,Bernay,BERNAY,272 – Bernay,Arrondissement de Bernay,true,0,"",de ,27056,Bernay,28,Normandie,28 – Normandie,27,Eure,27 – Eure
+273,Évreux,Évreux,EVREUX,273 – Évreux,Arrondissement d'Évreux,true,1,"",d',27229,Évreux,28,Normandie,28 – Normandie,27,Eure,27 – Eure
+281,Chartres,Chartres,CHARTRES,281 – Chartres,Arrondissement de Chartres,true,0,"",de ,28085,Chartres,24,Centre-Val de Loire,24 – Centre-Val de Loire,28,Eure-et-Loir,28 – Eure-et-Loir
+282,Châteaudun,Châteaudun,CHATEAUDUN,282 – Châteaudun,Arrondissement de Châteaudun,true,0,"",de ,28088,Châteaudun,24,Centre-Val de Loire,24 – Centre-Val de Loire,28,Eure-et-Loir,28 – Eure-et-Loir
+283,Dreux,Dreux,DREUX,283 – Dreux,Arrondissement de Dreux,true,0,"",de ,28134,Dreux,24,Centre-Val de Loire,24 – Centre-Val de Loire,28,Eure-et-Loir,28 – Eure-et-Loir
+284,Nogent-le-Rotrou,Nogent-le-Rotrou,NOGENT LE ROTROU,284 – Nogent-le-Rotrou,Arrondissement de Nogent-le-Rotrou,true,0,"",de ,28280,Nogent-le-Rotrou,24,Centre-Val de Loire,24 – Centre-Val de Loire,28,Eure-et-Loir,28 – Eure-et-Loir
+291,Brest,Brest,BREST,291 – Brest,Arrondissement de Brest,true,0,"",de ,29019,Brest,53,Bretagne,53 – Bretagne,29,Finistère,29 – Finistère
+292,Châteaulin,Châteaulin,CHATEAULIN,292 – Châteaulin,Arrondissement de Châteaulin,true,0,"",de ,29026,Châteaulin,53,Bretagne,53 – Bretagne,29,Finistère,29 – Finistère
+293,Morlaix,Morlaix,MORLAIX,293 – Morlaix,Arrondissement de Morlaix,true,0,"",de ,29151,Morlaix,53,Bretagne,53 – Bretagne,29,Finistère,29 – Finistère
+294,Quimper,Quimper,QUIMPER,294 – Quimper,Arrondissement de Quimper,true,0,"",de ,29232,Quimper,53,Bretagne,53 – Bretagne,29,Finistère,29 – Finistère
+2A1,Ajaccio,Ajaccio,AJACCIO,2A1 – Ajaccio,Arrondissement d'Ajaccio,true,1,"",d',2A004,Ajaccio,94,Corse,94 – Corse,2A,Corse-du-Sud,2A – Corse-du-Sud
+2A4,Sartène,Sartène,SARTENE,2A4 – Sartène,Arrondissement de Sartène,true,0,"",de ,2A272,Sartène,94,Corse,94 – Corse,2A,Corse-du-Sud,2A – Corse-du-Sud
+2B2,Bastia,Bastia,BASTIA,2B2 – Bastia,Arrondissement de Bastia,true,0,"",de ,2B033,Bastia,94,Corse,94 – Corse,2B,Haute-Corse,2B – Haute-Corse
+2B3,Corte,Corte,CORTE,2B3 – Corte,Arrondissement de Corte,true,0,"",de ,2B096,Corte,94,Corse,94 – Corse,2B,Haute-Corse,2B – Haute-Corse
+2B5,Calvi,Calvi,CALVI,2B5 – Calvi,Arrondissement de Calvi,true,0,"",de ,2B050,Calvi,94,Corse,94 – Corse,2B,Haute-Corse,2B – Haute-Corse
+301,Alès,Alès,ALES,301 – Alès,Arrondissement d'Alès,true,1,"",d',30007,Alès,76,Occitanie,76 – Occitanie,30,Gard,30 – Gard
+302,Nîmes,Nîmes,NIMES,302 – Nîmes,Arrondissement de Nîmes,true,0,"",de ,30189,Nîmes,76,Occitanie,76 – Occitanie,30,Gard,30 – Gard
+303,Le Vigan,Vigan,VIGAN,303 – Le Vigan,Arrondissement du Vigan,true,2,Le ,du ,30350,Le Vigan,76,Occitanie,76 – Occitanie,30,Gard,30 – Gard
+311,Muret,Muret,MURET,311 – Muret,Arrondissement de Muret,true,0,"",de ,31395,Muret,76,Occitanie,76 – Occitanie,31,Haute-Garonne,31 – Haute-Garonne
+312,Saint-Gaudens,Saint-Gaudens,SAINT GAUDENS,312 – Saint-Gaudens,Arrondissement de Saint-Gaudens,true,0,"",de ,31483,Saint-Gaudens,76,Occitanie,76 – Occitanie,31,Haute-Garonne,31 – Haute-Garonne
+313,Toulouse,Toulouse,TOULOUSE,313 – Toulouse,Arrondissement de Toulouse,true,0,"",de ,31555,Toulouse,76,Occitanie,76 – Occitanie,31,Haute-Garonne,31 – Haute-Garonne
+321,Auch,Auch,AUCH,321 – Auch,Arrondissement d'Auch,true,1,"",d',32013,Auch,76,Occitanie,76 – Occitanie,32,Gers,32 – Gers
+322,Condom,Condom,CONDOM,322 – Condom,Arrondissement de Condom,true,0,"",de ,32107,Condom,76,Occitanie,76 – Occitanie,32,Gers,32 – Gers
+323,Mirande,Mirande,MIRANDE,323 – Mirande,Arrondissement de Mirande,true,0,"",de ,32256,Mirande,76,Occitanie,76 – Occitanie,32,Gers,32 – Gers
+331,Blaye,Blaye,BLAYE,331 – Blaye,Arrondissement de Blaye,true,0,"",de ,33058,Blaye,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+332,Bordeaux,Bordeaux,BORDEAUX,332 – Bordeaux,Arrondissement de Bordeaux,true,0,"",de ,33063,Bordeaux,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+333,Langon,Langon,LANGON,333 – Langon,Arrondissement de Langon,true,0,"",de ,33227,Langon,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+334,Lesparre-Médoc,Lesparre-Médoc,LESPARRE MEDOC,334 – Lesparre-Médoc,Arrondissement de Lesparre-Médoc,true,0,"",de ,33240,Lesparre-Médoc,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+335,Libourne,Libourne,LIBOURNE,335 – Libourne,Arrondissement de Libourne,true,0,"",de ,33243,Libourne,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+336,Arcachon,Arcachon,ARCACHON,336 – Arcachon,Arrondissement d'Arcachon,true,1,"",d',33009,Arcachon,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,33,Gironde,33 – Gironde
+341,Béziers,Béziers,BEZIERS,341 – Béziers,Arrondissement de Béziers,true,0,"",de ,34032,Béziers,76,Occitanie,76 – Occitanie,34,Hérault,34 – Hérault
+342,Lodève,Lodève,LODEVE,342 – Lodève,Arrondissement de Lodève,true,0,"",de ,34142,Lodève,76,Occitanie,76 – Occitanie,34,Hérault,34 – Hérault
+343,Montpellier,Montpellier,MONTPELLIER,343 – Montpellier,Arrondissement de Montpellier,true,0,"",de ,34172,Montpellier,76,Occitanie,76 – Occitanie,34,Hérault,34 – Hérault
+351,Fougères-Vitré,Fougères-Vitré,FOUGERES VITRE,351 – Fougères-Vitré,Arrondissement de Fougères-Vitré,true,0,"",de ,35115,Fougères,53,Bretagne,53 – Bretagne,35,Ille-et-Vilaine,35 – Ille-et-Vilaine
+352,Redon,Redon,REDON,352 – Redon,Arrondissement de Redon,true,0,"",de ,35236,Redon,53,Bretagne,53 – Bretagne,35,Ille-et-Vilaine,35 – Ille-et-Vilaine
+353,Rennes,Rennes,RENNES,353 – Rennes,Arrondissement de Rennes,true,0,"",de ,35238,Rennes,53,Bretagne,53 – Bretagne,35,Ille-et-Vilaine,35 – Ille-et-Vilaine
+354,Saint-Malo,Saint-Malo,SAINT MALO,354 – Saint-Malo,Arrondissement de Saint-Malo,true,0,"",de ,35288,Saint-Malo,53,Bretagne,53 – Bretagne,35,Ille-et-Vilaine,35 – Ille-et-Vilaine
+361,Le Blanc,Blanc,BLANC,361 – Le Blanc,Arrondissement du Blanc,true,2,Le ,du ,36018,Le Blanc,24,Centre-Val de Loire,24 – Centre-Val de Loire,36,Indre,36 – Indre
+362,Châteauroux,Châteauroux,CHATEAUROUX,362 – Châteauroux,Arrondissement de Châteauroux,true,0,"",de ,36044,Châteauroux,24,Centre-Val de Loire,24 – Centre-Val de Loire,36,Indre,36 – Indre
+363,La Châtre,Châtre,CHATRE,363 – La Châtre,Arrondissement de La Châtre,true,3,La ,de La ,36046,La Châtre,24,Centre-Val de Loire,24 – Centre-Val de Loire,36,Indre,36 – Indre
+364,Issoudun,Issoudun,ISSOUDUN,364 – Issoudun,Arrondissement d'Issoudun,true,1,"",d',36088,Issoudun,24,Centre-Val de Loire,24 – Centre-Val de Loire,36,Indre,36 – Indre
+371,Chinon,Chinon,CHINON,371 – Chinon,Arrondissement de Chinon,true,0,"",de ,37072,Chinon,24,Centre-Val de Loire,24 – Centre-Val de Loire,37,Indre-et-Loire,37 – Indre-et-Loire
+372,Tours,Tours,TOURS,372 – Tours,Arrondissement de Tours,true,0,"",de ,37261,Tours,24,Centre-Val de Loire,24 – Centre-Val de Loire,37,Indre-et-Loire,37 – Indre-et-Loire
+373,Loches,Loches,LOCHES,373 – Loches,Arrondissement de Loches,true,0,"",de ,37132,Loches,24,Centre-Val de Loire,24 – Centre-Val de Loire,37,Indre-et-Loire,37 – Indre-et-Loire
+381,Grenoble,Grenoble,GRENOBLE,381 – Grenoble,Arrondissement de Grenoble,true,0,"",de ,38185,Grenoble,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,38,Isère,38 – Isère
+382,La Tour-du-Pin,Tour-du-Pin,TOUR DU PIN,382 – La Tour-du-Pin,Arrondissement de La Tour-du-Pin,true,3,La ,de La ,38509,La Tour-du-Pin,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,38,Isère,38 – Isère
+383,Vienne,Vienne,VIENNE,383 – Vienne,Arrondissement de Vienne,true,0,"",de ,38544,Vienne,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,38,Isère,38 – Isère
+391,Dole,Dole,DOLE,391 – Dole,Arrondissement de Dole,true,0,"",de ,39198,Dole,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,39,Jura,39 – Jura
+392,Lons-le-Saunier,Lons-le-Saunier,LONS LE SAUNIER,392 – Lons-le-Saunier,Arrondissement de Lons-le-Saunier,true,0,"",de ,39300,Lons-le-Saunier,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,39,Jura,39 – Jura
+393,Saint-Claude,Saint-Claude,SAINT CLAUDE,393 – Saint-Claude,Arrondissement de Saint-Claude,true,0,"",de ,39478,Saint-Claude,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,39,Jura,39 – Jura
+401,Dax,Dax,DAX,401 – Dax,Arrondissement de Dax,true,0,"",de ,40088,Dax,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,40,Landes,40 – Landes
+402,Mont-de-Marsan,Mont-de-Marsan,MONT DE MARSAN,402 – Mont-de-Marsan,Arrondissement de Mont-de-Marsan,true,0,"",de ,40192,Mont-de-Marsan,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,40,Landes,40 – Landes
+411,Blois,Blois,BLOIS,411 – Blois,Arrondissement de Blois,true,0,"",de ,41018,Blois,24,Centre-Val de Loire,24 – Centre-Val de Loire,41,Loir-et-Cher,41 – Loir-et-Cher
+412,Vendôme,Vendôme,VENDOME,412 – Vendôme,Arrondissement de Vendôme,true,0,"",de ,41269,Vendôme,24,Centre-Val de Loire,24 – Centre-Val de Loire,41,Loir-et-Cher,41 – Loir-et-Cher
+413,Romorantin-Lanthenay,Romorantin-Lanthenay,ROMORANTIN LANTHENAY,413 – Romorantin-Lanthenay,Arrondissement de Romorantin-Lanthenay,true,0,"",de ,41194,Romorantin-Lanthenay,24,Centre-Val de Loire,24 – Centre-Val de Loire,41,Loir-et-Cher,41 – Loir-et-Cher
+421,Montbrison,Montbrison,MONTBRISON,421 – Montbrison,Arrondissement de Montbrison,true,0,"",de ,42147,Montbrison,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,42,Loire,42 – Loire
+422,Roanne,Roanne,ROANNE,422 – Roanne,Arrondissement de Roanne,true,0,"",de ,42187,Roanne,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,42,Loire,42 – Loire
+423,Saint-Étienne,Saint-Étienne,SAINT ETIENNE,423 – Saint-Étienne,Arrondissement de Saint-Étienne,true,0,"",de ,42218,Saint-Étienne,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,42,Loire,42 – Loire
+431,Brioude,Brioude,BRIOUDE,431 – Brioude,Arrondissement de Brioude,true,0,"",de ,43040,Brioude,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,43,Haute-Loire,43 – Haute-Loire
+432,Le Puy-en-Velay,Puy-en-Velay,PUY EN VELAY,432 – Le Puy-en-Velay,Arrondissement du Puy-en-Velay,true,2,Le ,du ,43157,Le Puy-en-Velay,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,43,Haute-Loire,43 – Haute-Loire
+433,Yssingeaux,Yssingeaux,YSSINGEAUX,433 – Yssingeaux,Arrondissement d'Yssingeaux,true,1,"",d',43268,Yssingeaux,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,43,Haute-Loire,43 – Haute-Loire
+442,Nantes,Nantes,NANTES,442 – Nantes,Arrondissement de Nantes,true,0,"",de ,44109,Nantes,52,Pays de la Loire,52 – Pays de la Loire,44,Loire-Atlantique,44 – Loire-Atlantique
+443,Saint-Nazaire,Saint-Nazaire,SAINT NAZAIRE,443 – Saint-Nazaire,Arrondissement de Saint-Nazaire,true,0,"",de ,44184,Saint-Nazaire,52,Pays de la Loire,52 – Pays de la Loire,44,Loire-Atlantique,44 – Loire-Atlantique
+445,Châteaubriant-Ancenis,Châteaubriant-Ancenis,CHATEAUBRIANT ANCENIS,445 – Châteaubriant-Ancenis,Arrondissement de Châteaubriant-Ancenis,true,0,"",de ,44036,Châteaubriant,52,Pays de la Loire,52 – Pays de la Loire,44,Loire-Atlantique,44 – Loire-Atlantique
+451,Montargis,Montargis,MONTARGIS,451 – Montargis,Arrondissement de Montargis,true,0,"",de ,45208,Montargis,24,Centre-Val de Loire,24 – Centre-Val de Loire,45,Loiret,45 – Loiret
+452,Orléans,Orléans,ORLEANS,452 – Orléans,Arrondissement d'Orléans,true,1,"",d',45234,Orléans,24,Centre-Val de Loire,24 – Centre-Val de Loire,45,Loiret,45 – Loiret
+453,Pithiviers,Pithiviers,PITHIVIERS,453 – Pithiviers,Arrondissement de Pithiviers,true,0,"",de ,45252,Pithiviers,24,Centre-Val de Loire,24 – Centre-Val de Loire,45,Loiret,45 – Loiret
+461,Cahors,Cahors,CAHORS,461 – Cahors,Arrondissement de Cahors,true,0,"",de ,46042,Cahors,76,Occitanie,76 – Occitanie,46,Lot,46 – Lot
+462,Figeac,Figeac,FIGEAC,462 – Figeac,Arrondissement de Figeac,true,0,"",de ,46102,Figeac,76,Occitanie,76 – Occitanie,46,Lot,46 – Lot
+463,Gourdon,Gourdon,GOURDON,463 – Gourdon,Arrondissement de Gourdon,true,0,"",de ,46127,Gourdon,76,Occitanie,76 – Occitanie,46,Lot,46 – Lot
+471,Agen,Agen,AGEN,471 – Agen,Arrondissement d'Agen,true,1,"",d',47001,Agen,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,47,Lot-et-Garonne,47 – Lot-et-Garonne
+472,Marmande,Marmande,MARMANDE,472 – Marmande,Arrondissement de Marmande,true,0,"",de ,47157,Marmande,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,47,Lot-et-Garonne,47 – Lot-et-Garonne
+473,Villeneuve-sur-Lot,Villeneuve-sur-Lot,VILLENEUVE SUR LOT,473 – Villeneuve-sur-Lot,Arrondissement de Villeneuve-sur-Lot,true,0,"",de ,47323,Villeneuve-sur-Lot,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,47,Lot-et-Garonne,47 – Lot-et-Garonne
+474,Nérac,Nérac,NERAC,474 – Nérac,Arrondissement de Nérac,true,0,"",de ,47195,Nérac,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,47,Lot-et-Garonne,47 – Lot-et-Garonne
+481,Florac,Florac,FLORAC,481 – Florac,Arrondissement de Florac,true,0,"",de ,48061,Florac Trois Rivières,76,Occitanie,76 – Occitanie,48,Lozère,48 – Lozère
+482,Mende,Mende,MENDE,482 – Mende,Arrondissement de Mende,true,0,"",de ,48095,Mende,76,Occitanie,76 – Occitanie,48,Lozère,48 – Lozère
+491,Angers,Angers,ANGERS,491 – Angers,Arrondissement d'Angers,true,1,"",d',49007,Angers,52,Pays de la Loire,52 – Pays de la Loire,49,Maine-et-Loire,49 – Maine-et-Loire
+492,Cholet,Cholet,CHOLET,492 – Cholet,Arrondissement de Cholet,true,0,"",de ,49099,Cholet,52,Pays de la Loire,52 – Pays de la Loire,49,Maine-et-Loire,49 – Maine-et-Loire
+493,Saumur,Saumur,SAUMUR,493 – Saumur,Arrondissement de Saumur,true,0,"",de ,49328,Saumur,52,Pays de la Loire,52 – Pays de la Loire,49,Maine-et-Loire,49 – Maine-et-Loire
+494,Segré,Segré,SEGRE,494 – Segré,Arrondissement de Segré,true,0,"",de ,49331,Segré-en-Anjou Bleu,52,Pays de la Loire,52 – Pays de la Loire,49,Maine-et-Loire,49 – Maine-et-Loire
+501,Avranches,Avranches,AVRANCHES,501 – Avranches,Arrondissement d'Avranches,true,1,"",d',50025,Avranches,28,Normandie,28 – Normandie,50,Manche,50 – Manche
+502,Cherbourg,Cherbourg,CHERBOURG,502 – Cherbourg,Arrondissement de Cherbourg,true,0,"",de ,50129,Cherbourg-en-Cotentin,28,Normandie,28 – Normandie,50,Manche,50 – Manche
+503,Coutances,Coutances,COUTANCES,503 – Coutances,Arrondissement de Coutances,true,0,"",de ,50147,Coutances,28,Normandie,28 – Normandie,50,Manche,50 – Manche
+504,Saint-Lô,Saint-Lô,SAINT LO,504 – Saint-Lô,Arrondissement de Saint-Lô,true,0,"",de ,50502,Saint-Lô,28,Normandie,28 – Normandie,50,Manche,50 – Manche
+511,Châlons-en-Champagne,Châlons-en-Champagne,CHALONS EN CHAMPAGNE,511 – Châlons-en-Champagne,Arrondissement de Châlons-en-Champagne,true,0,"",de ,51108,Châlons-en-Champagne,44,Grand Est,44 – Grand Est,51,Marne,51 – Marne
+512,Épernay,Épernay,EPERNAY,512 – Épernay,Arrondissement d'Épernay,true,1,"",d',51230,Épernay,44,Grand Est,44 – Grand Est,51,Marne,51 – Marne
+513,Reims,Reims,REIMS,513 – Reims,Arrondissement de Reims,true,0,"",de ,51454,Reims,44,Grand Est,44 – Grand Est,51,Marne,51 – Marne
+514,Vitry-le-François,Vitry-le-François,VITRY LE FRANCOIS,514 – Vitry-le-François,Arrondissement de Vitry-le-François,true,0,"",de ,51649,Vitry-le-François,44,Grand Est,44 – Grand Est,51,Marne,51 – Marne
+521,Chaumont,Chaumont,CHAUMONT,521 – Chaumont,Arrondissement de Chaumont,true,0,"",de ,52121,Chaumont,44,Grand Est,44 – Grand Est,52,Haute-Marne,52 – Haute-Marne
+522,Langres,Langres,LANGRES,522 – Langres,Arrondissement de Langres,true,0,"",de ,52269,Langres,44,Grand Est,44 – Grand Est,52,Haute-Marne,52 – Haute-Marne
+523,Saint-Dizier,Saint-Dizier,SAINT DIZIER,523 – Saint-Dizier,Arrondissement de Saint-Dizier,true,0,"",de ,52448,Saint-Dizier,44,Grand Est,44 – Grand Est,52,Haute-Marne,52 – Haute-Marne
+531,Château-Gontier,Château-Gontier,CHATEAU GONTIER,531 – Château-Gontier,Arrondissement de Château-Gontier,true,0,"",de ,53062,Château-Gontier-sur-Mayenne,52,Pays de la Loire,52 – Pays de la Loire,53,Mayenne,53 – Mayenne
+532,Laval,Laval,LAVAL,532 – Laval,Arrondissement de Laval,true,0,"",de ,53130,Laval,52,Pays de la Loire,52 – Pays de la Loire,53,Mayenne,53 – Mayenne
+533,Mayenne,Mayenne,MAYENNE,533 – Mayenne,Arrondissement de Mayenne,true,0,"",de ,53147,Mayenne,52,Pays de la Loire,52 – Pays de la Loire,53,Mayenne,53 – Mayenne
+541,Val-de-Briey,Val-de-Briey,VAL DE BRIEY,541 – Val-de-Briey,Arrondissement de Val-de-Briey,true,0,"",de ,54099,Val de Briey,44,Grand Est,44 – Grand Est,54,Meurthe-et-Moselle,54 – Meurthe-et-Moselle
+542,Lunéville,Lunéville,LUNEVILLE,542 – Lunéville,Arrondissement de Lunéville,true,0,"",de ,54329,Lunéville,44,Grand Est,44 – Grand Est,54,Meurthe-et-Moselle,54 – Meurthe-et-Moselle
+543,Nancy,Nancy,NANCY,543 – Nancy,Arrondissement de Nancy,true,0,"",de ,54395,Nancy,44,Grand Est,44 – Grand Est,54,Meurthe-et-Moselle,54 – Meurthe-et-Moselle
+544,Toul,Toul,TOUL,544 – Toul,Arrondissement de Toul,true,0,"",de ,54528,Toul,44,Grand Est,44 – Grand Est,54,Meurthe-et-Moselle,54 – Meurthe-et-Moselle
+551,Bar-le-Duc,Bar-le-Duc,BAR LE DUC,551 – Bar-le-Duc,Arrondissement de Bar-le-Duc,true,0,"",de ,55029,Bar-le-Duc,44,Grand Est,44 – Grand Est,55,Meuse,55 – Meuse
+552,Commercy,Commercy,COMMERCY,552 – Commercy,Arrondissement de Commercy,true,0,"",de ,55122,Commercy,44,Grand Est,44 – Grand Est,55,Meuse,55 – Meuse
+553,Verdun,Verdun,VERDUN,553 – Verdun,Arrondissement de Verdun,true,0,"",de ,55545,Verdun,44,Grand Est,44 – Grand Est,55,Meuse,55 – Meuse
+561,Lorient,Lorient,LORIENT,561 – Lorient,Arrondissement de Lorient,true,0,"",de ,56121,Lorient,53,Bretagne,53 – Bretagne,56,Morbihan,56 – Morbihan
+562,Pontivy,Pontivy,PONTIVY,562 – Pontivy,Arrondissement de Pontivy,true,0,"",de ,56178,Pontivy,53,Bretagne,53 – Bretagne,56,Morbihan,56 – Morbihan
+563,Vannes,Vannes,VANNES,563 – Vannes,Arrondissement de Vannes,true,0,"",de ,56260,Vannes,53,Bretagne,53 – Bretagne,56,Morbihan,56 – Morbihan
+573,Forbach-Boulay-Moselle,Forbach-Boulay-Moselle,FORBACH BOULAY MOSELLE,573 – Forbach-Boulay-Moselle,Arrondissement de Forbach-Boulay-Moselle,true,0,"",de ,57227,Forbach,44,Grand Est,44 – Grand Est,57,Moselle,57 – Moselle
+575,Sarrebourg-Château-Salins,Sarrebourg-Château-Salins,SARREBOURG CHATEAU SALINS,575 – Sarrebourg-Château-Salins,Arrondissement de Sarrebourg-Château-Salins,true,0,"",de ,57630,Sarrebourg,44,Grand Est,44 – Grand Est,57,Moselle,57 – Moselle
+576,Sarreguemines,Sarreguemines,SARREGUEMINES,576 – Sarreguemines,Arrondissement de Sarreguemines,true,0,"",de ,57631,Sarreguemines,44,Grand Est,44 – Grand Est,57,Moselle,57 – Moselle
+577,Thionville,Thionville,THIONVILLE,577 – Thionville,Arrondissement de Thionville,true,0,"",de ,57672,Thionville,44,Grand Est,44 – Grand Est,57,Moselle,57 – Moselle
+579,Metz,Metz,METZ,579 – Metz,Arrondissement de Metz,true,0,"",de ,57463,Metz,44,Grand Est,44 – Grand Est,57,Moselle,57 – Moselle
+581,Château-Chinon (Ville),Château-Chinon (Ville),CHATEAU CHINON (VILLE),581 – Château-Chinon (Ville),Arrondissement de Château-Chinon (Ville),true,0,"",de ,58062,Château-Chinon (Ville),27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,58,Nièvre,58 – Nièvre
+582,Clamecy,Clamecy,CLAMECY,582 – Clamecy,Arrondissement de Clamecy,true,0,"",de ,58079,Clamecy,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,58,Nièvre,58 – Nièvre
+583,Nevers,Nevers,NEVERS,583 – Nevers,Arrondissement de Nevers,true,0,"",de ,58194,Nevers,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,58,Nièvre,58 – Nièvre
+584,Cosne-Cours-sur-Loire,Cosne-Cours-sur-Loire,COSNE COURS SUR LOIRE,584 – Cosne-Cours-sur-Loire,Arrondissement de Cosne-Cours-sur-Loire,true,0,"",de ,58086,Cosne-Cours-sur-Loire,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,58,Nièvre,58 – Nièvre
+591,Avesnes-sur-Helpe,Avesnes-sur-Helpe,AVESNES SUR HELPE,591 – Avesnes-sur-Helpe,Arrondissement d'Avesnes-sur-Helpe,true,1,"",d',59036,Avesnes-sur-Helpe,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+592,Cambrai,Cambrai,CAMBRAI,592 – Cambrai,Arrondissement de Cambrai,true,0,"",de ,59122,Cambrai,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+593,Douai,Douai,DOUAI,593 – Douai,Arrondissement de Douai,true,0,"",de ,59178,Douai,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+594,Dunkerque,Dunkerque,DUNKERQUE,594 – Dunkerque,Arrondissement de Dunkerque,true,0,"",de ,59183,Dunkerque,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+595,Lille,Lille,LILLE,595 – Lille,Arrondissement de Lille,true,0,"",de ,59350,Lille,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+596,Valenciennes,Valenciennes,VALENCIENNES,596 – Valenciennes,Arrondissement de Valenciennes,true,0,"",de ,59606,Valenciennes,32,Hauts-de-France,32 – Hauts-de-France,59,Nord,59 – Nord
+601,Beauvais,Beauvais,BEAUVAIS,601 – Beauvais,Arrondissement de Beauvais,true,0,"",de ,60057,Beauvais,32,Hauts-de-France,32 – Hauts-de-France,60,Oise,60 – Oise
+602,Clermont,Clermont,CLERMONT,602 – Clermont,Arrondissement de Clermont,true,0,"",de ,60157,Clermont,32,Hauts-de-France,32 – Hauts-de-France,60,Oise,60 – Oise
+603,Compiègne,Compiègne,COMPIEGNE,603 – Compiègne,Arrondissement de Compiègne,true,0,"",de ,60159,Compiègne,32,Hauts-de-France,32 – Hauts-de-France,60,Oise,60 – Oise
+604,Senlis,Senlis,SENLIS,604 – Senlis,Arrondissement de Senlis,true,0,"",de ,60612,Senlis,32,Hauts-de-France,32 – Hauts-de-France,60,Oise,60 – Oise
+611,Alençon,Alençon,ALENCON,611 – Alençon,Arrondissement d'Alençon,true,1,"",d',61001,Alençon,28,Normandie,28 – Normandie,61,Orne,61 – Orne
+612,Argentan,Argentan,ARGENTAN,612 – Argentan,Arrondissement d'Argentan,true,1,"",d',61006,Argentan,28,Normandie,28 – Normandie,61,Orne,61 – Orne
+613,Mortagne-au-Perche,Mortagne-au-Perche,MORTAGNE AU PERCHE,613 – Mortagne-au-Perche,Arrondissement de Mortagne-au-Perche,true,0,"",de ,61293,Mortagne-au-Perche,28,Normandie,28 – Normandie,61,Orne,61 – Orne
+621,Arras,Arras,ARRAS,621 – Arras,Arrondissement d'Arras,true,1,"",d',62041,Arras,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+622,Béthune,Béthune,BETHUNE,622 – Béthune,Arrondissement de Béthune,true,0,"",de ,62119,Béthune,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+623,Boulogne-sur-Mer,Boulogne-sur-Mer,BOULOGNE SUR MER,623 – Boulogne-sur-Mer,Arrondissement de Boulogne-sur-Mer,true,0,"",de ,62160,Boulogne-sur-Mer,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+624,Montreuil,Montreuil,MONTREUIL,624 – Montreuil,Arrondissement de Montreuil,true,0,"",de ,62588,Montreuil-sur-Mer,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+625,Saint-Omer,Saint-Omer,SAINT OMER,625 – Saint-Omer,Arrondissement de Saint-Omer,true,0,"",de ,62765,Saint-Omer,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+626,Calais,Calais,CALAIS,626 – Calais,Arrondissement de Calais,true,0,"",de ,62193,Calais,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+627,Lens,Lens,LENS,627 – Lens,Arrondissement de Lens,true,0,"",de ,62498,Lens,32,Hauts-de-France,32 – Hauts-de-France,62,Pas-de-Calais,62 – Pas-de-Calais
+631,Ambert,Ambert,AMBERT,631 – Ambert,Arrondissement d'Ambert,true,1,"",d',63003,Ambert,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,63,Puy-de-Dôme,63 – Puy-de-Dôme
+632,Clermont-Ferrand,Clermont-Ferrand,CLERMONT FERRAND,632 – Clermont-Ferrand,Arrondissement de Clermont-Ferrand,true,0,"",de ,63113,Clermont-Ferrand,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,63,Puy-de-Dôme,63 – Puy-de-Dôme
+633,Issoire,Issoire,ISSOIRE,633 – Issoire,Arrondissement d'Issoire,true,1,"",d',63178,Issoire,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,63,Puy-de-Dôme,63 – Puy-de-Dôme
+634,Riom,Riom,RIOM,634 – Riom,Arrondissement de Riom,true,0,"",de ,63300,Riom,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,63,Puy-de-Dôme,63 – Puy-de-Dôme
+635,Thiers,Thiers,THIERS,635 – Thiers,Arrondissement de Thiers,true,0,"",de ,63430,Thiers,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,63,Puy-de-Dôme,63 – Puy-de-Dôme
+641,Bayonne,Bayonne,BAYONNE,641 – Bayonne,Arrondissement de Bayonne,true,0,"",de ,64102,Bayonne,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,64 – Pyrénées-Atlantiques
+642,Oloron-Sainte-Marie,Oloron-Sainte-Marie,OLORON SAINTE MARIE,642 – Oloron-Sainte-Marie,Arrondissement d'Oloron-Sainte-Marie,true,1,"",d',64422,Oloron-Sainte-Marie,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,64 – Pyrénées-Atlantiques
+643,Pau,Pau,PAU,643 – Pau,Arrondissement de Pau,true,0,"",de ,64445,Pau,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,64 – Pyrénées-Atlantiques
+651,Argelès-Gazost,Argelès-Gazost,ARGELES GAZOST,651 – Argelès-Gazost,Arrondissement d'Argelès-Gazost,true,1,"",d',65025,Argelès-Gazost,76,Occitanie,76 – Occitanie,65,Hautes-Pyrénées,65 – Hautes-Pyrénées
+652,Bagnères-de-Bigorre,Bagnères-de-Bigorre,BAGNERES DE BIGORRE,652 – Bagnères-de-Bigorre,Arrondissement de Bagnères-de-Bigorre,true,0,"",de ,65059,Bagnères-de-Bigorre,76,Occitanie,76 – Occitanie,65,Hautes-Pyrénées,65 – Hautes-Pyrénées
+653,Tarbes,Tarbes,TARBES,653 – Tarbes,Arrondissement de Tarbes,true,0,"",de ,65440,Tarbes,76,Occitanie,76 – Occitanie,65,Hautes-Pyrénées,65 – Hautes-Pyrénées
+661,Céret,Céret,CERET,661 – Céret,Arrondissement de Céret,true,0,"",de ,66049,Céret,76,Occitanie,76 – Occitanie,66,Pyrénées-Orientales,66 – Pyrénées-Orientales
+662,Perpignan,Perpignan,PERPIGNAN,662 – Perpignan,Arrondissement de Perpignan,true,0,"",de ,66136,Perpignan,76,Occitanie,76 – Occitanie,66,Pyrénées-Orientales,66 – Pyrénées-Orientales
+663,Prades,Prades,PRADES,663 – Prades,Arrondissement de Prades,true,0,"",de ,66149,Prades,76,Occitanie,76 – Occitanie,66,Pyrénées-Orientales,66 – Pyrénées-Orientales
+672,Haguenau-Wissembourg,Haguenau-Wissembourg,HAGUENAU WISSEMBOURG,672 – Haguenau-Wissembourg,Arrondissement de Haguenau-Wissembourg,true,0,"",de ,67180,Haguenau,44,Grand Est,44 – Grand Est,67,Bas-Rhin,67 – Bas-Rhin
+673,Molsheim,Molsheim,MOLSHEIM,673 – Molsheim,Arrondissement de Molsheim,true,0,"",de ,67300,Molsheim,44,Grand Est,44 – Grand Est,67,Bas-Rhin,67 – Bas-Rhin
+674,Saverne,Saverne,SAVERNE,674 – Saverne,Arrondissement de Saverne,true,0,"",de ,67437,Saverne,44,Grand Est,44 – Grand Est,67,Bas-Rhin,67 – Bas-Rhin
+675,Sélestat-Erstein,Sélestat-Erstein,SELESTAT ERSTEIN,675 – Sélestat-Erstein,Arrondissement de Sélestat-Erstein,true,0,"",de ,67462,Sélestat,44,Grand Est,44 – Grand Est,67,Bas-Rhin,67 – Bas-Rhin
+678,Strasbourg,Strasbourg,STRASBOURG,678 – Strasbourg,Arrondissement de Strasbourg,true,0,"",de ,67482,Strasbourg,44,Grand Est,44 – Grand Est,67,Bas-Rhin,67 – Bas-Rhin
+681,Altkirch,Altkirch,ALTKIRCH,681 – Altkirch,Arrondissement d'Altkirch,true,1,"",d',68004,Altkirch,44,Grand Est,44 – Grand Est,68,Haut-Rhin,68 – Haut-Rhin
+682,Colmar-Ribeauvillé,Colmar-Ribeauvillé,COLMAR RIBEAUVILLE,682 – Colmar-Ribeauvillé,Arrondissement de Colmar-Ribeauvillé,true,0,"",de ,68066,Colmar,44,Grand Est,44 – Grand Est,68,Haut-Rhin,68 – Haut-Rhin
+684,Mulhouse,Mulhouse,MULHOUSE,684 – Mulhouse,Arrondissement de Mulhouse,true,0,"",de ,68224,Mulhouse,44,Grand Est,44 – Grand Est,68,Haut-Rhin,68 – Haut-Rhin
+686,Thann-Guebwiller,Thann-Guebwiller,THANN GUEBWILLER,686 – Thann-Guebwiller,Arrondissement de Thann-Guebwiller,true,0,"",de ,68334,Thann,44,Grand Est,44 – Grand Est,68,Haut-Rhin,68 – Haut-Rhin
+691,Lyon,Lyon,LYON,691 – Lyon,Arrondissement de Lyon,true,0,"",de ,69123,Lyon,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,69,Rhône,69 – Rhône
+692,Villefranche-sur-Saône,Villefranche-sur-Saône,VILLEFRANCHE SUR SAONE,692 – Villefranche-sur-Saône,Arrondissement de Villefranche-sur-Saône,true,0,"",de ,69264,Villefranche-sur-Saône,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,69,Rhône,69 – Rhône
+701,Lure,Lure,LURE,701 – Lure,Arrondissement de Lure,true,0,"",de ,70310,Lure,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,70,Haute-Saône,70 – Haute-Saône
+702,Vesoul,Vesoul,VESOUL,702 – Vesoul,Arrondissement de Vesoul,true,0,"",de ,70550,Vesoul,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,70,Haute-Saône,70 – Haute-Saône
+711,Autun,Autun,AUTUN,711 – Autun,Arrondissement d'Autun,true,1,"",d',71014,Autun,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,71,Saône-et-Loire,71 – Saône-et-Loire
+712,Chalon-sur-Saône,Chalon-sur-Saône,CHALON SUR SAONE,712 – Chalon-sur-Saône,Arrondissement de Chalon-sur-Saône,true,0,"",de ,71076,Chalon-sur-Saône,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,71,Saône-et-Loire,71 – Saône-et-Loire
+713,Charolles,Charolles,CHAROLLES,713 – Charolles,Arrondissement de Charolles,true,0,"",de ,71106,Charolles,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,71,Saône-et-Loire,71 – Saône-et-Loire
+714,Louhans,Louhans,LOUHANS,714 – Louhans,Arrondissement de Louhans,true,0,"",de ,71263,Louhans,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,71,Saône-et-Loire,71 – Saône-et-Loire
+715,Mâcon,Mâcon,MACON,715 – Mâcon,Arrondissement de Mâcon,true,0,"",de ,71270,Mâcon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,71,Saône-et-Loire,71 – Saône-et-Loire
+721,La Flèche,Flèche,FLECHE,721 – La Flèche,Arrondissement de La Flèche,true,3,La ,de La ,72154,La Flèche,52,Pays de la Loire,52 – Pays de la Loire,72,Sarthe,72 – Sarthe
+722,Mamers,Mamers,MAMERS,722 – Mamers,Arrondissement de Mamers,true,0,"",de ,72180,Mamers,52,Pays de la Loire,52 – Pays de la Loire,72,Sarthe,72 – Sarthe
+723,Le Mans,Mans,MANS,723 – Le Mans,Arrondissement du Mans,true,2,Le ,du ,72181,Le Mans,52,Pays de la Loire,52 – Pays de la Loire,72,Sarthe,72 – Sarthe
+731,Albertville,Albertville,ALBERTVILLE,731 – Albertville,Arrondissement d'Albertville,true,1,"",d',73011,Albertville,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,73,Savoie,73 – Savoie
+732,Chambéry,Chambéry,CHAMBERY,732 – Chambéry,Arrondissement de Chambéry,true,0,"",de ,73065,Chambéry,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,73,Savoie,73 – Savoie
+733,Saint-Jean-de-Maurienne,Saint-Jean-de-Maurienne,SAINT JEAN DE MAURIENNE,733 – Saint-Jean-de-Maurienne,Arrondissement de Saint-Jean-de-Maurienne,true,0,"",de ,73248,Saint-Jean-de-Maurienne,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,73,Savoie,73 – Savoie
+741,Annecy,Annecy,ANNECY,741 – Annecy,Arrondissement d'Annecy,true,1,"",d',74010,Annecy,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,74,Haute-Savoie,74 – Haute-Savoie
+742,Bonneville,Bonneville,BONNEVILLE,742 – Bonneville,Arrondissement de Bonneville,true,0,"",de ,74042,Bonneville,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,74,Haute-Savoie,74 – Haute-Savoie
+743,Saint-Julien-en-Genevois,Saint-Julien-en-Genevois,SAINT JULIEN EN GENEVOIS,743 – Saint-Julien-en-Genevois,Arrondissement de Saint-Julien-en-Genevois,true,0,"",de ,74243,Saint-Julien-en-Genevois,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,74,Haute-Savoie,74 – Haute-Savoie
+744,Thonon-les-Bains,Thonon-les-Bains,THONON LES BAINS,744 – Thonon-les-Bains,Arrondissement de Thonon-les-Bains,true,0,"",de ,74281,Thonon-les-Bains,84,Auvergne-Rhône-Alpes,84 – Auvergne-Rhône-Alpes,74,Haute-Savoie,74 – Haute-Savoie
+751,Paris,Paris,PARIS,751 – Paris,Arrondissement de Paris,true,0,"",de ,75056,Paris,11,Île-de-France,11 – Île-de-France,75,Paris,75 – Paris
+761,Dieppe,Dieppe,DIEPPE,761 – Dieppe,Arrondissement de Dieppe,true,0,"",de ,76217,Dieppe,28,Normandie,28 – Normandie,76,Seine-Maritime,76 – Seine-Maritime
+762,Le Havre,Havre,HAVRE,762 – Le Havre,Arrondissement du Havre,true,2,Le ,du ,76351,Le Havre,28,Normandie,28 – Normandie,76,Seine-Maritime,76 – Seine-Maritime
+763,Rouen,Rouen,ROUEN,763 – Rouen,Arrondissement de Rouen,true,0,"",de ,76540,Rouen,28,Normandie,28 – Normandie,76,Seine-Maritime,76 – Seine-Maritime
+771,Meaux,Meaux,MEAUX,771 – Meaux,Arrondissement de Meaux,true,0,"",de ,77284,Meaux,11,Île-de-France,11 – Île-de-France,77,Seine-et-Marne,77 – Seine-et-Marne
+772,Melun,Melun,MELUN,772 – Melun,Arrondissement de Melun,true,0,"",de ,77288,Melun,11,Île-de-France,11 – Île-de-France,77,Seine-et-Marne,77 – Seine-et-Marne
+773,Provins,Provins,PROVINS,773 – Provins,Arrondissement de Provins,true,0,"",de ,77379,Provins,11,Île-de-France,11 – Île-de-France,77,Seine-et-Marne,77 – Seine-et-Marne
+774,Fontainebleau,Fontainebleau,FONTAINEBLEAU,774 – Fontainebleau,Arrondissement de Fontainebleau,true,0,"",de ,77186,Fontainebleau,11,Île-de-France,11 – Île-de-France,77,Seine-et-Marne,77 – Seine-et-Marne
+775,Torcy,Torcy,TORCY,775 – Torcy,Arrondissement de Torcy,true,0,"",de ,77468,Torcy,11,Île-de-France,11 – Île-de-France,77,Seine-et-Marne,77 – Seine-et-Marne
+781,Mantes-la-Jolie,Mantes-la-Jolie,MANTES LA JOLIE,781 – Mantes-la-Jolie,Arrondissement de Mantes-la-Jolie,true,0,"",de ,78361,Mantes-la-Jolie,11,Île-de-France,11 – Île-de-France,78,Yvelines,78 – Yvelines
+782,Rambouillet,Rambouillet,RAMBOUILLET,782 – Rambouillet,Arrondissement de Rambouillet,true,0,"",de ,78517,Rambouillet,11,Île-de-France,11 – Île-de-France,78,Yvelines,78 – Yvelines
+783,Saint-Germain-en-Laye,Saint-Germain-en-Laye,SAINT GERMAIN EN LAYE,783 – Saint-Germain-en-Laye,Arrondissement de Saint-Germain-en-Laye,true,0,"",de ,78551,Saint-Germain-en-Laye,11,Île-de-France,11 – Île-de-France,78,Yvelines,78 – Yvelines
+784,Versailles,Versailles,VERSAILLES,784 – Versailles,Arrondissement de Versailles,true,0,"",de ,78646,Versailles,11,Île-de-France,11 – Île-de-France,78,Yvelines,78 – Yvelines
+791,Bressuire,Bressuire,BRESSUIRE,791 – Bressuire,Arrondissement de Bressuire,true,0,"",de ,79049,Bressuire,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,79,Deux-Sèvres,79 – Deux-Sèvres
+792,Niort,Niort,NIORT,792 – Niort,Arrondissement de Niort,true,0,"",de ,79191,Niort,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,79,Deux-Sèvres,79 – Deux-Sèvres
+793,Parthenay,Parthenay,PARTHENAY,793 – Parthenay,Arrondissement de Parthenay,true,0,"",de ,79202,Parthenay,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,79,Deux-Sèvres,79 – Deux-Sèvres
+801,Abbeville,Abbeville,ABBEVILLE,801 – Abbeville,Arrondissement d'Abbeville,true,1,"",d',80001,Abbeville,32,Hauts-de-France,32 – Hauts-de-France,80,Somme,80 – Somme
+802,Amiens,Amiens,AMIENS,802 – Amiens,Arrondissement d'Amiens,true,1,"",d',80021,Amiens,32,Hauts-de-France,32 – Hauts-de-France,80,Somme,80 – Somme
+803,Montdidier,Montdidier,MONTDIDIER,803 – Montdidier,Arrondissement de Montdidier,true,0,"",de ,80561,Montdidier,32,Hauts-de-France,32 – Hauts-de-France,80,Somme,80 – Somme
+804,Péronne,Péronne,PERONNE,804 – Péronne,Arrondissement de Péronne,true,0,"",de ,80620,Péronne,32,Hauts-de-France,32 – Hauts-de-France,80,Somme,80 – Somme
+811,Albi,Albi,ALBI,811 – Albi,Arrondissement d'Albi,true,1,"",d',81004,Albi,76,Occitanie,76 – Occitanie,81,Tarn,81 – Tarn
+812,Castres,Castres,CASTRES,812 – Castres,Arrondissement de Castres,true,0,"",de ,81065,Castres,76,Occitanie,76 – Occitanie,81,Tarn,81 – Tarn
+821,Castelsarrasin,Castelsarrasin,CASTELSARRASIN,821 – Castelsarrasin,Arrondissement de Castelsarrasin,true,0,"",de ,82033,Castelsarrasin,76,Occitanie,76 – Occitanie,82,Tarn-et-Garonne,82 – Tarn-et-Garonne
+822,Montauban,Montauban,MONTAUBAN,822 – Montauban,Arrondissement de Montauban,true,0,"",de ,82121,Montauban,76,Occitanie,76 – Occitanie,82,Tarn-et-Garonne,82 – Tarn-et-Garonne
+831,Draguignan,Draguignan,DRAGUIGNAN,831 – Draguignan,Arrondissement de Draguignan,true,0,"",de ,83050,Draguignan,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,83,Var,83 – Var
+832,Toulon,Toulon,TOULON,832 – Toulon,Arrondissement de Toulon,true,0,"",de ,83137,Toulon,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,83,Var,83 – Var
+833,Brignoles,Brignoles,BRIGNOLES,833 – Brignoles,Arrondissement de Brignoles,true,0,"",de ,83023,Brignoles,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,83,Var,83 – Var
+841,Apt,Apt,APT,841 – Apt,Arrondissement d'Apt,true,1,"",d',84003,Apt,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,84,Vaucluse,84 – Vaucluse
+842,Avignon,Avignon,AVIGNON,842 – Avignon,Arrondissement d'Avignon,true,1,"",d',84007,Avignon,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,84,Vaucluse,84 – Vaucluse
+843,Carpentras,Carpentras,CARPENTRAS,843 – Carpentras,Arrondissement de Carpentras,true,0,"",de ,84031,Carpentras,93,Provence-Alpes-Côte d'Azur,93 – Provence-Alpes-Côte d'Azur,84,Vaucluse,84 – Vaucluse
+851,Fontenay-le-Comte,Fontenay-le-Comte,FONTENAY LE COMTE,851 – Fontenay-le-Comte,Arrondissement de Fontenay-le-Comte,true,0,"",de ,85092,Fontenay-le-Comte,52,Pays de la Loire,52 – Pays de la Loire,85,Vendée,85 – Vendée
+852,La Roche-sur-Yon,Roche-sur-Yon,ROCHE SUR YON,852 – La Roche-sur-Yon,Arrondissement de La Roche-sur-Yon,true,3,La ,de La ,85191,La Roche-sur-Yon,52,Pays de la Loire,52 – Pays de la Loire,85,Vendée,85 – Vendée
+853,Les Sables-d'Olonne,Sables-d'Olonne,SABLES D OLONNE,853 – Les Sables-d'Olonne,Arrondissement des Sables-d'Olonne,true,4,Les ,des ,85194,Les Sables-d'Olonne,52,Pays de la Loire,52 – Pays de la Loire,85,Vendée,85 – Vendée
+861,Châtellerault,Châtellerault,CHATELLERAULT,861 – Châtellerault,Arrondissement de Châtellerault,true,0,"",de ,86066,Châtellerault,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,86,Vienne,86 – Vienne
+862,Montmorillon,Montmorillon,MONTMORILLON,862 – Montmorillon,Arrondissement de Montmorillon,true,0,"",de ,86165,Montmorillon,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,86,Vienne,86 – Vienne
+863,Poitiers,Poitiers,POITIERS,863 – Poitiers,Arrondissement de Poitiers,true,0,"",de ,86194,Poitiers,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,86,Vienne,86 – Vienne
+871,Bellac,Bellac,BELLAC,871 – Bellac,Arrondissement de Bellac,true,0,"",de ,87011,Bellac,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,87,Haute-Vienne,87 – Haute-Vienne
+872,Limoges,Limoges,LIMOGES,872 – Limoges,Arrondissement de Limoges,true,0,"",de ,87085,Limoges,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,87,Haute-Vienne,87 – Haute-Vienne
+873,Rochechouart,Rochechouart,ROCHECHOUART,873 – Rochechouart,Arrondissement de Rochechouart,true,0,"",de ,87126,Rochechouart,75,Nouvelle-Aquitaine,75 – Nouvelle-Aquitaine,87,Haute-Vienne,87 – Haute-Vienne
+881,Épinal,Épinal,EPINAL,881 – Épinal,Arrondissement d'Épinal,true,1,"",d',88160,Épinal,44,Grand Est,44 – Grand Est,88,Vosges,88 – Vosges
+882,Neufchâteau,Neufchâteau,NEUFCHATEAU,882 – Neufchâteau,Arrondissement de Neufchâteau,true,0,"",de ,88321,Neufchâteau,44,Grand Est,44 – Grand Est,88,Vosges,88 – Vosges
+883,Saint-Dié-des-Vosges,Saint-Dié-des-Vosges,SAINT DIE DES VOSGES,883 – Saint-Dié-des-Vosges,Arrondissement de Saint-Dié-des-Vosges,true,0,"",de ,88413,Saint-Dié-des-Vosges,44,Grand Est,44 – Grand Est,88,Vosges,88 – Vosges
+891,Auxerre,Auxerre,AUXERRE,891 – Auxerre,Arrondissement d'Auxerre,true,1,"",d',89024,Auxerre,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,89,Yonne,89 – Yonne
+892,Avallon,Avallon,AVALLON,892 – Avallon,Arrondissement d'Avallon,true,1,"",d',89025,Avallon,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,89,Yonne,89 – Yonne
+893,Sens,Sens,SENS,893 – Sens,Arrondissement de Sens,true,0,"",de ,89387,Sens,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,89,Yonne,89 – Yonne
+901,Belfort,Belfort,BELFORT,901 – Belfort,Arrondissement de Belfort,true,0,"",de ,90010,Belfort,27,Bourgogne-Franche-Comté,27 – Bourgogne-Franche-Comté,90,Territoire de Belfort,90 – Territoire de Belfort
+911,Étampes,Étampes,ETAMPES,911 – Étampes,Arrondissement d'Étampes,true,1,"",d',91223,Étampes,11,Île-de-France,11 – Île-de-France,91,Essonne,91 – Essonne
+912,Évry,Évry,EVRY,912 – Évry,Arrondissement d'Évry,true,1,"",d',91228,Évry-Courcouronnes,11,Île-de-France,11 – Île-de-France,91,Essonne,91 – Essonne
+913,Palaiseau,Palaiseau,PALAISEAU,913 – Palaiseau,Arrondissement de Palaiseau,true,0,"",de ,91477,Palaiseau,11,Île-de-France,11 – Île-de-France,91,Essonne,91 – Essonne
+921,Antony,Antony,ANTONY,921 – Antony,Arrondissement d'Antony,true,1,"",d',92002,Antony,11,Île-de-France,11 – Île-de-France,92,Hauts-de-Seine,92 – Hauts-de-Seine
+922,Nanterre,Nanterre,NANTERRE,922 – Nanterre,Arrondissement de Nanterre,true,0,"",de ,92050,Nanterre,11,Île-de-France,11 – Île-de-France,92,Hauts-de-Seine,92 – Hauts-de-Seine
+923,Boulogne-Billancourt,Boulogne-Billancourt,BOULOGNE BILLANCOURT,923 – Boulogne-Billancourt,Arrondissement de Boulogne-Billancourt,true,0,"",de ,92012,Boulogne-Billancourt,11,Île-de-France,11 – Île-de-France,92,Hauts-de-Seine,92 – Hauts-de-Seine
+931,Bobigny,Bobigny,BOBIGNY,931 – Bobigny,Arrondissement de Bobigny,true,0,"",de ,93008,Bobigny,11,Île-de-France,11 – Île-de-France,93,Seine-Saint-Denis,93 – Seine-Saint-Denis
+932,Le Raincy,Raincy,RAINCY,932 – Le Raincy,Arrondissement du Raincy,true,2,Le ,du ,93062,Le Raincy,11,Île-de-France,11 – Île-de-France,93,Seine-Saint-Denis,93 – Seine-Saint-Denis
+933,Saint-Denis,Saint-Denis,SAINT DENIS,933 – Saint-Denis,Arrondissement de Saint-Denis,true,0,"",de ,93066,Saint-Denis,11,Île-de-France,11 – Île-de-France,93,Seine-Saint-Denis,93 – Seine-Saint-Denis
+941,Créteil,Créteil,CRETEIL,941 – Créteil,Arrondissement de Créteil,true,0,"",de ,94028,Créteil,11,Île-de-France,11 – Île-de-France,94,Val-de-Marne,94 – Val-de-Marne
+942,Nogent-sur-Marne,Nogent-sur-Marne,NOGENT SUR MARNE,942 – Nogent-sur-Marne,Arrondissement de Nogent-sur-Marne,true,0,"",de ,94052,Nogent-sur-Marne,11,Île-de-France,11 – Île-de-France,94,Val-de-Marne,94 – Val-de-Marne
+943,L'Haÿ-les-Roses,Haÿ-les-Roses,HAY LES ROSES,943 – L'Haÿ-les-Roses,Arrondissement de L'Haÿ-les-Roses,true,5,L',de L',94038,L'Haÿ-les-Roses,11,Île-de-France,11 – Île-de-France,94,Val-de-Marne,94 – Val-de-Marne
+951,Argenteuil,Argenteuil,ARGENTEUIL,951 – Argenteuil,Arrondissement d'Argenteuil,true,1,"",d',95018,Argenteuil,11,Île-de-France,11 – Île-de-France,95,Val-d'Oise,95 – Val-d'Oise
+952,Sarcelles,Sarcelles,SARCELLES,952 – Sarcelles,Arrondissement de Sarcelles,true,0,"",de ,95585,Sarcelles,11,Île-de-France,11 – Île-de-France,95,Val-d'Oise,95 – Val-d'Oise
+953,Pontoise,Pontoise,PONTOISE,953 – Pontoise,Arrondissement de Pontoise,true,0,"",de ,95500,Pontoise,11,Île-de-France,11 – Île-de-France,95,Val-d'Oise,95 – Val-d'Oise
+9711,Basse-Terre,Basse-Terre,BASSE TERRE,9711 – Basse-Terre,Arrondissement de Basse-Terre,false,0,"",de ,97105,Basse-Terre,01,Guadeloupe,01 – Guadeloupe,971,Guadeloupe,971 – Guadeloupe
+9712,Pointe-à-Pitre,Pointe-à-Pitre,POINTE A PITRE,9712 – Pointe-à-Pitre,Arrondissement de Pointe-à-Pitre,false,0,"",de ,97120,Pointe-à-Pitre,01,Guadeloupe,01 – Guadeloupe,971,Guadeloupe,971 – Guadeloupe
+9721,Fort-de-France,Fort-de-France,FORT DE FRANCE,9721 – Fort-de-France,Arrondissement de Fort-de-France,false,0,"",de ,97209,Fort-de-France,02,Martinique,02 – Martinique,972,Martinique,972 – Martinique
+9722,La Trinité,Trinité,TRINITE,9722 – La Trinité,Arrondissement de La Trinité,false,3,La ,de La ,97230,La Trinité,02,Martinique,02 – Martinique,972,Martinique,972 – Martinique
+9723,Le Marin,Marin,MARIN,9723 – Le Marin,Arrondissement du Marin,false,2,Le ,du ,97217,Le Marin,02,Martinique,02 – Martinique,972,Martinique,972 – Martinique
+9724,Saint-Pierre,Saint-Pierre,SAINT PIERRE,9724 – Saint-Pierre,Arrondissement de Saint-Pierre,false,0,"",de ,97225,Saint-Pierre,02,Martinique,02 – Martinique,972,Martinique,972 – Martinique
+9731,Cayenne,Cayenne,CAYENNE,9731 – Cayenne,Arrondissement de Cayenne,false,0,"",de ,97302,Cayenne,03,Guyane,03 – Guyane,973,Guyane,973 – Guyane
+9732,Saint-Laurent-du-Maroni,Saint-Laurent-du-Maroni,SAINT LAURENT DU MARONI,9732 – Saint-Laurent-du-Maroni,Arrondissement de Saint-Laurent-du-Maroni,false,0,"",de ,97311,Saint-Laurent-du-Maroni,03,Guyane,03 – Guyane,973,Guyane,973 – Guyane
+9733,Saint-Georges,Saint-Georges,SAINT GEORGES,9733 – Saint-Georges,Arrondissement de Saint-Georges,false,0,"",de ,97308,Saint-Georges,03,Guyane,03 – Guyane,973,Guyane,973 – Guyane
+9741,Saint-Denis,Saint-Denis,SAINT DENIS,9741 – Saint-Denis,Arrondissement de Saint-Denis,false,0,"",de ,97411,Saint-Denis,04,La Réunion,04 – La Réunion,974,La Réunion,974 – La Réunion
+9742,Saint-Pierre,Saint-Pierre,SAINT PIERRE,9742 – Saint-Pierre,Arrondissement de Saint-Pierre,false,0,"",de ,97416,Saint-Pierre,04,La Réunion,04 – La Réunion,974,La Réunion,974 – La Réunion
+9743,Saint-Benoît,Saint-Benoît,SAINT BENOIT,9743 – Saint-Benoît,Arrondissement de Saint-Benoît,false,0,"",de ,97410,Saint-Benoît,04,La Réunion,04 – La Réunion,974,La Réunion,974 – La Réunion
+9744,Saint-Paul,Saint-Paul,SAINT PAUL,9744 – Saint-Paul,Arrondissement de Saint-Paul,false,0,"",de ,97415,Saint-Paul,04,La Réunion,04 – La Réunion,974,La Réunion,974 – La Réunion

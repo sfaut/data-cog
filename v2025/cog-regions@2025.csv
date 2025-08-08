@@ -1,0 +1,19 @@
+code,name,single_name,simple_name,identity,group_name,is_metropolitan,article_id,article,preposition,capital_code,capital_name
+01,Guadeloupe,Guadeloupe,GUADELOUPE,01 – Guadeloupe,Région de La Guadeloupe,false,3,La ,de La ,97105,Basse-Terre
+02,Martinique,Martinique,MARTINIQUE,02 – Martinique,Région de La Martinique,false,3,La ,de La ,97209,Fort-de-France
+03,Guyane,Guyane,GUYANE,03 – Guyane,Région de La Guyane,false,3,La ,de La ,97302,Cayenne
+04,La Réunion,La Réunion,LA REUNION,04 – La Réunion,Région de La Réunion,false,0,"",de ,97411,Saint-Denis
+06,Mayotte,Mayotte,MAYOTTE,06 – Mayotte,Région de Mayotte,false,0,"",de ,97611,Mamoudzou
+11,Île-de-France,Île-de-France,ILE DE FRANCE,11 – Île-de-France,Région d'Île-de-France,true,1,"",d',75056,Paris
+24,Centre-Val de Loire,Centre-Val de Loire,CENTRE VAL DE LOIRE,24 – Centre-Val de Loire,Région du Centre-Val de Loire,true,2,Le ,du ,45234,Orléans
+27,Bourgogne-Franche-Comté,Bourgogne-Franche-Comté,BOURGOGNE FRANCHE COMTE,27 – Bourgogne-Franche-Comté,Région de Bourgogne-Franche-Comté,true,0,"",de ,21231,Dijon
+28,Normandie,Normandie,NORMANDIE,28 – Normandie,Région de Normandie,true,0,"",de ,76540,Rouen
+32,Hauts-de-France,Hauts-de-France,HAUTS DE FRANCE,32 – Hauts-de-France,Région des Hauts-de-France,true,4,Les ,des ,59350,Lille
+44,Grand Est,Grand Est,GRAND EST,44 – Grand Est,Région du Grand Est,true,2,Le ,du ,67482,Strasbourg
+52,Pays de la Loire,Pays de la Loire,PAYS DE LA LOIRE,52 – Pays de la Loire,Région des Pays de la Loire,true,4,Les ,des ,44109,Nantes
+53,Bretagne,Bretagne,BRETAGNE,53 – Bretagne,Région de Bretagne,true,0,"",de ,35238,Rennes
+75,Nouvelle-Aquitaine,Nouvelle-Aquitaine,NOUVELLE AQUITAINE,75 – Nouvelle-Aquitaine,Région de La Nouvelle-Aquitaine,true,3,La ,de La ,33063,Bordeaux
+76,Occitanie,Occitanie,OCCITANIE,76 – Occitanie,Région d'Occitanie,true,1,"",d',31555,Toulouse
+84,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,AUVERGNE RHONE ALPES,84 – Auvergne-Rhône-Alpes,Région d'Auvergne-Rhône-Alpes,true,1,"",d',69123,Lyon
+93,Provence-Alpes-Côte d'Azur,Provence-Alpes-Côte d'Azur,PROVENCE ALPES COTE D AZUR,93 – Provence-Alpes-Côte d'Azur,Région de Provence-Alpes-Côte d'Azur,true,0,"",de ,13055,Marseille
+94,Corse,Corse,CORSE,94 – Corse,Région de Corse,true,0,"",de ,2A004,Ajaccio

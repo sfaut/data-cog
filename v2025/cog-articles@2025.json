@@ -1,0 +1,11 @@
+[
+	{"id":0,"article":"","preposition":"de ","comment":"Pas d'article et le nom commence par une consonne sauf H muet"},
+	{"id":1,"article":"","preposition":"d'","comment":"Pas d'article et le nom commence par une voyelle ou un H muet"},
+	{"id":2,"article":"Le ","preposition":"du ","comment":""},
+	{"id":3,"article":"La ","preposition":"de La ","comment":""},
+	{"id":4,"article":"Les ","preposition":"des ","comment":""},
+	{"id":5,"article":"L'","preposition":"de L'","comment":""},
+	{"id":6,"article":"aux ","preposition":"des ","comment":""},
+	{"id":7,"article":"Las ","preposition":"de Las ","comment":""},
+	{"id":8,"article":"Los ","preposition":"de Los ","comment":""}
+]
